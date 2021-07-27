@@ -1,0 +1,500 @@
+Ticker,Company
+F US Equity,Ford Motor Co
+CRM US Equity,salesforce.com Inc
+GM US Equity,General Motors Co
+CSCO US Equity,Cisco Systems Inc/Delaware
+BSX US Equity,Boston Scientific Corp
+LB US Equity,L Brands Inc
+GE US Equity,General Electric Co
+AMGN US Equity,Amgen Inc
+GILD US Equity,Gilead Sciences Inc
+BIIB US Equity,Biogen Inc
+T US Equity,AT&T Inc
+WMT US Equity,Walmart Inc
+MSFT US Equity,Microsoft Corp
+TXN US Equity,Texas Instruments Inc
+MU US Equity,Micron Technology Inc
+CTXS US Equity,Citrix Systems Inc
+HON US Equity,Honeywell International Inc
+VZ US Equity,Verizon Communications Inc
+MRK US Equity,Merck & Co Inc
+INTC US Equity,Intel Corp
+JNPR US Equity,Juniper Networks Inc
+BMY US Equity,Bristol-Myers Squibb Co
+HSIC US Equity,Henry Schein Inc
+CAH US Equity,Cardinal Health Inc
+BAX US Equity,Baxter International Inc
+COST US Equity,Costco Wholesale Corp
+JNJ US Equity,Johnson & Johnson
+ANTM US Equity,Anthem Inc
+GPS US Equity,Gap Inc/The
+LLY US Equity,Eli Lilly and Co
+MDT US Equity,Medtronic PLC
+NVDA US Equity,NVIDIA Corp
+WFC US Equity,Wells Fargo & Co
+NLOK US Equity,NortonLifeLock Inc
+C US Equity,Citigroup Inc
+BDX US Equity,Becton Dickinson and Co
+SYK US Equity,Stryker Corp
+JCI US Equity,Johnson Controls International
+QCOM US Equity,QUALCOMM Inc
+ECL US Equity,Ecolab Inc
+VRTX US Equity,Vertex Pharmaceuticals Inc
+EQIX US Equity,Equinix Inc
+RTX US Equity,Raytheon Technologies Corp
+MCK US Equity,McKesson Corp
+KSU US Equity,Kansas City Southern
+NTAP US Equity,NetApp Inc
+TMO US Equity,Thermo Fisher Scientific Inc
+HPQ US Equity,HP Inc
+UNP US Equity,Union Pacific Corp
+AMAT US Equity,Applied Materials Inc
+CI US Equity,Cigna Corp
+INCY US Equity,Incyte Corp
+FFIV US Equity,F5 Networks Inc
+CNC US Equity,Centene Corp
+ADSK US Equity,Autodesk Inc
+BAC US Equity,Bank of America Corp
+DHR US Equity,Danaher Corp
+REGN US Equity,Regeneron Pharmaceuticals Inc
+GWW US Equity,WW Grainger Inc
+V US Equity,Visa Inc
+SPGI US Equity,S&P Global Inc
+AVGO US Equity,Broadcom Inc
+HCA US Equity,HCA Healthcare Inc
+HOLX US Equity,Hologic Inc
+JPM US Equity,JPMorgan Chase & Co
+ALXN US Equity,Alexion Pharmaceuticals Inc
+BA US Equity,Boeing Co/The
+CTSH US Equity,Cognizant Technology Solutions
+AMT US Equity,American Tower Corp
+CMCSA US Equity,Comcast Corp
+AXP US Equity,American Express Co
+ADI US Equity,Analog Devices Inc
+COF US Equity,Capital One Financial Corp
+IBM US Equity,International Business Machine
+ORCL US Equity,Oracle Corp
+HUM US Equity,Humana Inc
+MMM US Equity,3M Co
+CSX US Equity,CSX Corp
+USB US Equity,US Bancorp
+MXIM US Equity,Maxim Integrated Products Inc
+CDNS US Equity,Cadence Design Systems Inc
+TFX US Equity,Teleflex Inc
+MCHP US Equity,Microchip Technology Inc
+MA US Equity,Mastercard Inc
+A US Equity,Agilent Technologies Inc
+PXD US Equity,Pioneer Natural Resources Co
+INTU US Equity,Intuit Inc
+NOC US Equity,Northrop Grumman Corp
+CME US Equity,CME Group Inc
+ABC US Equity,AmerisourceBergen Corp
+AMD US Equity,Advanced Micro Devices Inc
+EW US Equity,Edwards Lifesciences Corp
+APD US Equity,Air Products and Chemicals Inc
+EOG US Equity,EOG Resources Inc
+TGT US Equity,Target Corp
+ROST US Equity,Ross Stores Inc
+WAT US Equity,Waters Corp
+NSC US Equity,Norfolk Southern Corp
+DGX US Equity,Quest Diagnostics Inc
+PKI US Equity,PerkinElmer Inc
+MCO US Equity,Moody's Corp
+GLW US Equity,Corning Inc
+UHS US Equity,Universal Health Services Inc
+PLD US Equity,Prologis Inc
+VIAC US Equity,ViacomCBS Inc
+LRCX US Equity,Lam Research Corp
+MOS US Equity,Mosaic Co/The
+ZBH US Equity,Zimmer Biomet Holdings Inc
+ILMN US Equity,Illumina Inc
+CVS US Equity,CVS Health Corp
+FTNT US Equity,Fortinet Inc
+MSI US Equity,Motorola Solutions Inc
+DLR US Equity,Digital Realty Trust Inc
+CCI US Equity,Crown Castle International Cor
+XLNX US Equity,Xilinx Inc
+IPG US Equity,Interpublic Group of Cos Inc/T
+KLAC US Equity,KLA Corp
+BWA US Equity,BorgWarner Inc
+ANET US Equity,Arista Networks Inc
+TSN US Equity,Tyson Foods Inc
+PG US Equity,Procter & Gamble Co/The
+DFS US Equity,Discover Financial Services
+DXCM US Equity,DexCom Inc
+LUMN US Equity,Lumen Technologies Inc
+LH US Equity,Laboratory Corp of America Hol
+TMUS US Equity,T-Mobile US Inc
+CAT US Equity,Caterpillar Inc
+NDAQ US Equity,Nasdaq Inc
+TFC US Equity,Truist Financial Corp
+RSG US Equity,Republic Services Inc
+BK US Equity,Bank of New York Mellon Corp/T
+PH US Equity,Parker-Hannifin Corp
+DVN US Equity,Devon Energy Corp
+TAP US Equity,Molson Coors Beverage Co
+SWK US Equity,Stanley Black & Decker Inc
+PFE US Equity,Pfizer Inc
+RF US Equity,Regions Financial Corp
+EA US Equity,Electronic Arts Inc
+ALGN US Equity,Align Technology Inc
+PFG US Equity,Principal Financial Group Inc
+ISRG US Equity,Intuitive Surgical Inc
+UNM US Equity,Unum Group
+MS US Equity,Morgan Stanley
+PNC US Equity,PNC Financial Services Group I
+LOW US Equity,Lowe's Cos Inc
+COO US Equity,Cooper Cos Inc/The
+MTD US Equity,Mettler-Toledo International I
+VAR US Equity,Varian Medical Systems Inc
+ADBE US Equity,Adobe Inc
+CL US Equity,Colgate-Palmolive Co
+ROK US Equity,Rockwell Automation Inc
+GPN US Equity,Global Payments Inc
+ABT US Equity,Abbott Laboratories
+KO US Equity,Coca-Cola Co/The
+AFL US Equity,Aflac Inc
+HD US Equity,Home Depot Inc/The
+CMI US Equity,Cummins Inc
+RMD US Equity,ResMed Inc
+LNC US Equity,Lincoln National Corp
+DIS US Equity,Walt Disney Co/The
+EMN US Equity,Eastman Chemical Co
+ITW US Equity,Illinois Tool Works Inc
+NLSN US Equity,Nielsen Holdings PLC
+PRGO US Equity,Perrigo Co PLC
+SNPS US Equity,Synopsys Inc
+SEE US Equity,Sealed Air Corp
+CHTR US Equity,Charter Communications Inc
+EBAY US Equity,eBay Inc
+SYY US Equity,Sysco Corp
+ALL US Equity,Allstate Corp/The
+ETN US Equity,Eaton Corp PLC
+J US Equity,Jacobs Engineering Group Inc
+HIG US Equity,Hartford Financial Services Gr
+FITB US Equity,Fifth Third Bancorp
+TSCO US Equity,Tractor Supply Co
+XRX US Equity,Xerox Holdings Corp
+BLL US Equity,Ball Corp
+GIS US Equity,General Mills Inc
+ROP US Equity,Roper Technologies Inc
+EFX US Equity,Equifax Inc
+NWSA US Equity,News Corp
+WST US Equity,West Pharmaceutical Services I
+KR US Equity,Kroger Co/The
+AKAM US Equity,Akamai Technologies Inc
+LYB US Equity,LyondellBasell Industries NV
+SBAC US Equity,SBA Communications Corp
+WDC US Equity,Western Digital Corp
+PEG US Equity,Public Service Enterprise Grou
+NTRS US Equity,Northern Trust Corp
+LMT US Equity,Lockheed Martin Corp
+ICE US Equity,Intercontinental Exchange Inc
+DAL US Equity,Delta Air Lines Inc
+NEE US Equity,NextEra Energy Inc
+WBA US Equity,Walgreens Boots Alliance Inc
+WY US Equity,Weyerhaeuser Co
+ABBV US Equity,AbbVie Inc
+COP US Equity,ConocoPhillips
+DUK US Equity,Duke Energy Corp
+EXC US Equity,Exelon Corp
+FE US Equity,FirstEnergy Corp
+MAS US Equity,Masco Corp
+PRU US Equity,Prudential Financial Inc
+PVH US Equity,PVH Corp
+IP US Equity,International Paper Co
+LUV US Equity,Southwest Airlines Co
+AZO US Equity,AutoZone Inc
+PWR US Equity,Quanta Services Inc
+MAR US Equity,Marriott International Inc/MD
+XEL US Equity,Xcel Energy Inc
+IDXX US Equity,IDEXX Laboratories Inc
+CF US Equity,CF Industries Holdings Inc
+EXPE US Equity,Expedia Group Inc
+KEY US Equity,KeyCorp
+TYL US Equity,Tyler Technologies Inc
+TTWO US Equity,Take-Two Interactive Software
+CHD US Equity,Church & Dwight Co Inc
+CMA US Equity,Comerica Inc
+CB US Equity,Chubb Ltd
+SWKS US Equity,Skyworks Solutions Inc
+AVY US Equity,Avery Dennison Corp
+SBUX US Equity,Starbucks Corp
+MET US Equity,MetLife Inc
+KMI US Equity,Kinder Morgan Inc
+AEP US Equity,American Electric Power Co Inc
+HAL US Equity,Halliburton Co
+TRMB US Equity,Trimble Inc
+WMB US Equity,Williams Cos Inc/The
+CMS US Equity,CMS Energy Corp
+IRM US Equity,Iron Mountain Inc
+TT US Equity,Trane Technologies PLC
+PEP US Equity,PepsiCo Inc
+BXP US Equity,Boston Properties Inc
+URI US Equity,United Rentals Inc
+AAL US Equity,American Airlines Group Inc
+CE US Equity,Celanese Corp
+PM US Equity,Philip Morris International In
+MCD US Equity,McDonald's Corp
+GS US Equity,Goldman Sachs Group Inc/The
+SNA US Equity,Snap-on Inc
+XOM US Equity,Exxon Mobil Corp
+IFF US Equity,International Flavors & Fragra
+WM US Equity,Waste Management Inc
+UNH US Equity,UnitedHealth Group Inc
+VFC US Equity,VF Corp
+STT US Equity,State Street Corp
+FIS US Equity,Fidelity National Information
+ZBRA US Equity,Zebra Technologies Corp
+BR US Equity,Broadridge Financial Solutions
+IT US Equity,Gartner Inc
+YUM US Equity,Yum! Brands Inc
+ALB US Equity,Albemarle Corp
+PNR US Equity,Pentair PLC
+CERN US Equity,Cerner Corp
+NEM US Equity,Newmont Corp
+MRO US Equity,Marathon Oil Corp
+VLO US Equity,Valero Energy Corp
+DISCA US Equity,Discovery Inc
+ANSS US Equity,ANSYS Inc
+HBAN US Equity,Huntington Bancshares Inc/OH
+CHRW US Equity,CH Robinson Worldwide Inc
+MO US Equity,Altria Group Inc
+D US Equity,Dominion Energy Inc
+WU US Equity,Western Union Co/The
+VTR US Equity,Ventas Inc
+L US Equity,Loews Corp
+DTE US Equity,DTE Energy Co
+OKE US Equity,ONEOK Inc
+NOW US Equity,ServiceNow Inc
+APTV US Equity,Aptiv PLC
+KIM US Equity,Kimco Realty Corp
+AEE US Equity,Ameren Corp
+STX US Equity,Seagate Technology PLC
+IR US Equity,Ingersoll Rand Inc
+FLIR US Equity,FLIR Systems Inc
+GD US Equity,General Dynamics Corp
+NWL US Equity,Newell Brands Inc
+PPL US Equity,PPL Corp
+NFLX US Equity,Netflix Inc
+WEC US Equity,WEC Energy Group Inc
+DOV US Equity,Dover Corp
+UAL US Equity,United Airlines Holdings Inc
+CLX US Equity,Clorox Co/The
+AES US Equity,AES Corp/The
+SLG US Equity,SL Green Realty Corp
+CAG US Equity,Conagra Brands Inc
+EL US Equity,Estee Lauder Cos Inc/The
+EMR US Equity,Emerson Electric Co
+BEN US Equity,Franklin Resources Inc
+FISV US Equity,Fiserv Inc
+BLK US Equity,BlackRock Inc
+AME US Equity,AMETEK Inc
+TEL US Equity,TE Connectivity Ltd
+STZ US Equity,Constellation Brands Inc
+AJG US Equity,Arthur J Gallagher & Co
+TPR US Equity,Tapestry Inc
+HAS US Equity,Hasbro Inc
+ALK US Equity,Alaska Air Group Inc
+CBRE US Equity,CBRE Group Inc
+AIG US Equity,American International Group I
+VRSN US Equity,VeriSign Inc
+K US Equity,Kellogg Co
+EQR US Equity,Equity Residential
+HRL US Equity,Hormel Foods Corp
+PHM US Equity,PulteGroup Inc
+LVS US Equity,Las Vegas Sands Corp
+WELL US Equity,Welltower Inc
+ZTS US Equity,Zoetis Inc
+FLS US Equity,Flowserve Corp
+FCX US Equity,Freeport-McMoRan Inc
+LDOS US Equity,Leidos Holdings Inc
+FMC US Equity,FMC Corp
+BBY US Equity,Best Buy Co Inc
+ETR US Equity,Entergy Corp
+CBOE US Equity,Cboe Global Markets Inc
+HES US Equity,Hess Corp
+SO US Equity,Southern Co/The
+PEAK US Equity,Healthpeak Properties Inc
+MKC US Equity,McCormick & Co Inc/MD
+SPG US Equity,Simon Property Group Inc
+TRV US Equity,Travelers Cos Inc/The
+MSCI US Equity,MSCI Inc
+TDY US Equity,Teledyne Technologies Inc
+MTB US Equity,M&T Bank Corp
+LHX US Equity,L3Harris Technologies Inc
+CPB US Equity,Campbell Soup Co
+DPZ US Equity,Domino's Pizza Inc
+DE US Equity,Deere & Co
+EIX US Equity,Edison International
+FRT US Equity,Federal Realty Investment Trus
+AMZN US Equity,Amazon.com Inc
+KMB US Equity,Kimberly-Clark Corp
+SJM US Equity,J M Smucker Co/The
+VRSK US Equity,Verisk Analytics Inc
+DHI US Equity,DR Horton Inc
+KMX US Equity,CarMax Inc
+SRE US Equity,Sempra Energy
+NRG US Equity,NRG Energy Inc
+ESS US Equity,Essex Property Trust Inc
+FDX US Equity,FedEx Corp
+LEG US Equity,Leggett & Platt Inc
+ADP US Equity,Automatic Data Processing Inc
+AMP US Equity,Ameriprise Financial Inc
+SHW US Equity,Sherwin-Williams Co/The
+WRB US Equity,W R Berkley Corp
+BKNG US Equity,Booking Holdings Inc
+RJF US Equity,Raymond James Financial Inc
+IVZ US Equity,Invesco Ltd
+DRI US Equity,Darden Restaurants Inc
+CVX US Equity,Chevron Corp
+PYPL US Equity,PayPal Holdings Inc
+LYV US Equity,Live Nation Entertainment Inc
+FRC US Equity,First Republic Bank/CA
+DG US Equity,Dollar General Corp
+DLTR US Equity,Dollar Tree Inc
+WHR US Equity,Whirlpool Corp
+COG US Equity,Cabot Oil & Gas Corp
+UDR US Equity,UDR Inc
+TWTR US Equity,Twitter Inc
+VMC US Equity,Vulcan Materials Co
+FLT US Equity,FleetCor Technologies Inc
+ES US Equity,Eversource Energy
+BF US Equity,Brown-Forman Corp
+PSA US Equity,Public Storage
+AAPL US Equity,Apple Inc
+GL US Equity,Globe Life Inc
+ACN US Equity,Accenture PLC
+CMG US Equity,Chipotle Mexican Grill Inc
+PAYX US Equity,Paychex Inc
+HBI US Equity,Hanesbrands Inc
+WLTW US Equity,Willis Towers Watson PLC
+CINF US Equity,Cincinnati Financial Corp
+ADM US Equity,Archer-Daniels-Midland Co
+REG US Equity,Regency Centers Corp
+TJX US Equity,TJX Cos Inc/The
+UPS US Equity,United Parcel Service Inc
+PPG US Equity,PPG Industries Inc
+XRAY US Equity,DENTSPLY SIRONA Inc
+GOOGL US Equity,Alphabet Inc
+ORLY US Equity,O'Reilly Automotive Inc
+DRE US Equity,Duke Realty Corp
+CTLT US Equity,Catalent Inc
+GRMN US Equity,Garmin Ltd
+GPC US Equity,Genuine Parts Co
+PKG US Equity,Packaging Corp of America
+CFG US Equity,Citizens Financial Group Inc
+ATO US Equity,Atmos Energy Corp
+ED US Equity,Consolidated Edison Inc
+OXY US Equity,Occidental Petroleum Corp
+MMC US Equity,Marsh & McLennan Cos Inc
+LKQ US Equity,LKQ Corp
+AAP US Equity,Advance Auto Parts Inc
+PBCT US Equity,People's United Financial Inc
+MLM US Equity,Martin Marietta Materials Inc
+NKE US Equity,NIKE Inc
+CDW US Equity,CDW Corp/DE
+NUE US Equity,Nucor Corp
+IPGP US Equity,IPG Photonics Corp
+AIZ US Equity,Assurant Inc
+IEX US Equity,IDEX Corp
+LNT US Equity,Alliant Energy Corp
+HSY US Equity,Hershey Co/The
+SIVB US Equity,SVB Financial Group
+MKTX US Equity,MarketAxess Holdings Inc
+NOV US Equity,NOV Inc
+DVA US Equity,DaVita Inc
+PCAR US Equity,PACCAR Inc
+MAA US Equity,Mid-America Apartment Communit
+KEYS US Equity,Keysight Technologies Inc
+LEN US Equity,Lennar Corp
+ARE US Equity,Alexandria Real Estate Equitie
+MGM US Equity,MGM Resorts International
+CNP US Equity,CenterPoint Energy Inc
+JKHY US Equity,Jack Henry & Associates Inc
+XYL US Equity,Xylem Inc/NY
+TXT US Equity,Textron Inc
+AVB US Equity,AvalonBay Communities Inc
+UAA US Equity,Under Armour Inc
+AWK US Equity,American Water Works Co Inc
+BIO US Equity,Bio-Rad Laboratories Inc
+PGR US Equity,Progressive Corp/The
+POOL US Equity,Pool Corp
+ABMD US Equity,ABIOMED Inc
+ETSY US Equity,Etsy Inc
+RL US Equity,Ralph Lauren Corp
+IQV US Equity,IQVIA Holdings Inc
+ULTA US Equity,Ulta Beauty Inc
+MPWR US Equity,Monolithic Power Systems Inc
+PNW US Equity,Pinnacle West Capital Corp
+APH US Equity,Amphenol Corp
+EXR US Equity,Extra Space Storage Inc
+ATVI US Equity,Activision Blizzard Inc
+WAB US Equity,Westinghouse Air Brake Technol
+SLB US Equity,Schlumberger NV
+QRVO US Equity,Qorvo Inc
+OMC US Equity,Omnicom Group Inc
+MHK US Equity,Mohawk Industries Inc
+CTAS US Equity,Cintas Corp
+ZION US Equity,Zions Bancorp NA
+TER US Equity,Teradyne Inc
+RHI US Equity,Robert Half International Inc
+NI US Equity,NiSource Inc
+PSX US Equity,Phillips 66
+INFO US Equity,IHS Markit Ltd
+AOS US Equity,A O Smith Corp
+RCL US Equity,Royal Caribbean Cruises Ltd
+HII US Equity,Huntington Ingalls Industries
+TDG US Equity,TransDigm Group Inc
+PAYC US Equity,Paycom Software Inc
+HST US Equity,Host Hotels & Resorts Inc
+HPE US Equity,Hewlett Packard Enterprise Co
+MDLZ US Equity,Mondelez International Inc
+CPRT US Equity,Copart Inc
+MPC US Equity,Marathon Petroleum Corp
+ALLE US Equity,Allegion plc
+FB US Equity,Facebook Inc
+FTV US Equity,Fortive Corp
+SCHW US Equity,Charles Schwab Corp/The
+DISH US Equity,DISH Network Corp
+SYF US Equity,Synchrony Financial
+LIN US Equity,Linde PLC
+MNST US Equity,Monster Beverage Corp
+FAST US Equity,Fastenal Co
+TSLA US Equity,Tesla Inc
+WYNN US Equity,Wynn Resorts Ltd
+ODFL US Equity,Old Dominion Freight Line Inc
+HFC US Equity,HollyFrontier Corp
+RE US Equity,Everest Re Group Ltd
+VNO US Equity,Vornado Realty Trust
+KHC US Equity,Kraft Heinz Co/The
+O US Equity,Realty Income Corp
+HLT US Equity,Hilton Worldwide Holdings Inc
+FBHS US Equity,Fortune Brands Home & Security
+CCL US Equity,Carnival Corp
+ROL US Equity,Rollins Inc
+STE US Equity,STERIS PLC
+DD US Equity,DuPont de Nemours Inc
+WRK US Equity,Westrock Co
+NCLH US Equity,Norwegian Cruise Line Holdings
+BKR US Equity,Baker Hughes Co
+ENPH US Equity,Enphase Energy Inc
+FANG US Equity,Diamondback Energy Inc
+JBHT US Equity,JB Hunt Transport Services Inc
+AON US Equity,Aon PLC
+DXC US Equity,DXC Technology Co
+AMCR US Equity,Amcor PLC
+HWM US Equity,Howmet Aerospace Inc
+EVRG US Equity,Evergy Inc
+FOXA US Equity,Fox Corp
+CTVA US Equity,Corteva Inc
+KMP US Equity,Kinder Morgan Energy Partners
+DOW US Equity,Dow Inc
+LW US Equity,Lamb Weston Holdings Inc
+ACE AB Equity,Chubb Arabia Cooperative Insur
+MEL US Equity,Mellon Financial Corp
+CARR US Equity,Carrier Global Corp
+VNT US Equity,Vontier Corp
+TROW US Equity,T Rowe Price Group Inc
+SAN FP Equity,Sanofi
+VTRS US Equity,Viatris Inc
