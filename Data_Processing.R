@@ -8,12 +8,16 @@
 
 ## Load libraries
 library(dplyr)
+library(httr)
 library(quantmod)
 library(readr)
+library(rvest)
 library(SnowballC)
+library(sqldf)
 library(tidytext)
 library(tidyr)
 library(tm)
+library(xml2)
 
 # Clear the environment
 base::rm(list = base::ls())
@@ -102,3 +106,63 @@ for (i in 1:2065) {
 
 ## Bind processed data into a single data frame
 processed <- dplyr::bind_rows(processed)
+
+## Scrape Stanford Law website
+cases_filed <- base::list()
+for (i in 58:71) {
+  
+  ## Scrape tables
+  content <- xml2::read_html(base::paste0("https://securities.stanford.edu/filings.html?page=", i)) %>% rvest::html_table(fill = T)
+  cases_filed <- base::append(cases_filed, base::list(content[[1]]))
+  
+}
+
+## Clean and format
+cases_filed <- dplyr::bind_rows(cases_filed)
+cases_filed <- cases_filed[, c(2, 5)]
+base::names(cases_filed) <- c("date", "ticker")
+cases_filed$date <- base::as.Date(cases_filed$date, "%m/%d/%Y")
+
+## Find quarter dates around lawsuit
+cases_filed$before <- base::as.character(lubridate::quarter(cases_filed$date, with_year = T) - 0.1)
+cases_filed$after <- base::as.character(lubridate::quarter(cases_filed$date, with_year = T))
+
+for (i in 1:base::nrow(cases_filed)) {
+  if (base::substring(cases_filed[i, ]$before, 6, 6) == "1") {
+    
+    cases_filed[i, ]$before <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "01-01")
+    cases_filed[i, ]$after <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "03-31")
+    
+  } else if (base::substring(cases_filed[i, ]$before, 6, 6) == "2") {
+    
+    cases_filed[i, ]$before <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "04-01")
+    cases_filed[i, ]$after <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "06-30")
+    
+  } else if (base::substring(cases_filed[i, ]$before, 6, 6) == "3") {
+    
+    cases_filed[i, ]$before <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "07-01")
+    cases_filed[i, ]$after <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "09-30")
+    
+  } else if (base::substring(cases_filed[i, ]$before, 6, 6) == "4") {
+    
+    cases_filed[i, ]$before <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "10-01")
+    cases_filed[i, ]$after <- base::paste0(base::substring(cases_filed[i, ]$before, 1, 4), "-", "12-31")
+    
+  }
+}
+
+cases_filed$before <- base::as.Date(cases_filed$before, "%Y-%m-%d")
+cases_filed$after <- base::as.Date(cases_filed$after, "%Y-%m-%d")
+cases_filed$date <- NULL
+
+processed$lawsuit <- base::as.numeric(NA)
+for (i in 1:base::nrow(processed)) {
+  
+  tmp <- cases_filed[base::which(cases_filed$ticker == processed[i, ]$ticker & cases_filed$before <= processed[i, ]$date & cases_filed$after >= processed[i, ]$date), ]
+  
+  if (base::nrow(tmp) > 0) {
+    processed[i, ]$lawsuit <- 1
+  } else {
+    processed[i, ]$lawsuit <- 0
+  }
+}
