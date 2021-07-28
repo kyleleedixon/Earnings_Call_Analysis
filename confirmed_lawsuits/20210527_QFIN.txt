@@ -1,0 +1,245 @@
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the 360 DigiTech First Quarter 2021 Earnings Conference Call. Please also note today's event is being recorded.
+
+At this time, I would like to turn the conference call over to Ms. Mandy Dole, IR Director. Please go ahead, Mandy.
+
+Mandy Dole
+
+Thank you. Hello everyone and welcome to our first quarter 2021 earnings conference call. Our results were issued earlier today and can be found on our IR website. Joining me today are Mr. Wu Haisheng, our CEO and Director; Mr. Alex Xu, our CFO and Director; and Mr. Zheng Yan, our CRO.
+
+Before we begin the prepared remarks, I would like to remind you of the company's Safe Harbor statements. Except for historical information, the materials discussed here may contain forward-looking statements based on our current plans, estimates and projections, therefore, you should not place undue reliance on them.
+
+Forward-looking statements involve inherent risks and uncertainties. We caution that a number of important factors could cause actual results to differ materially from those in forward-looking statements.
+
+For more information about potential risks and uncertainties, please refer to the company's filings with the SEC. Also, this call includes a discussion of certain non-GAAP measures. Please refer to our earnings release for a reconciliation between non-GAAP and GAAP ones. Last, unless otherwise stated, all figures mentioned are in RMB.
+
+I will now turn the call over to our -- Mr. Wu Haisheng, CEO of our company.
+
+Haisheng Wu
+
+[Foreign Language]
+
+Hello, everyone, I'm very happy to report a stellar quarter therefore exceeded our expectations across the Board. The strong growth momentum that we have seen in 2020 Q2 continued in the first quarter and we had another set of a record-breaking operational results.
+
+During the quarter, total loan facilitation was RMB74.1 billion, up 40% year-over-year. Outstanding loan balance increased by 38% year-over-year RMB101.9 billion exceeding RMB100 billion for the first time.
+
+Total revenue was RMB3.6 billion, up 13% year-over-year. Non-GAAP net income was RMB1.4 billion, up 452% year-over-year. As we execute on our various strategy initiatives and overall market demand continues to recover, we expect to maintain this robust growth momentum in 2021.
+
+While maintaining strong growth, we made significant progress in our technology-driven strategy upgrading and the transition, loan facilitation under the capital-light model and other tech solution models exceeded 50% of total for the first time. This ratio increased further to 55% in recent months. This marks a fundamental change to the nature of our business
+
+In addition, our tech empowered business line advanced on multiple fronts. Our smart marketing service product, Intelligence Credit Engine, CE delivered a rapid growth in April, key monthly operating metrics of ICE, such as users with approved credit lines, transaction volume, and outstanding balance doubled from the 2020 year end levels.
+
+In particular, the transaction volume in April went up by an impressive 200% from the 2020 year end levels. Moreover our risk management, RM SaaS product expanded rapidly. We have now established collaboration with 29 financial institutions under this model and with another nine in the pipeline.
+
+In terms of strategy growth drivers, we are very pleased to report remarkable progress in key initiatives, such as embedded finance API model, SME finance, and the collaboration with Kincheng Bank of Tianjin, in short, KCB. We believe we have successfully upgraded our core growth engines with more comprehensive and diversified operations.
+
+Our embedded finance, API model remains very popular among our business partners and connected with more traffic platform during the quarter. So far, we have an established partnership with 20 leading traffic platforms and the further diversified our customer acquisition channels.
+
+As of now, embedded finance model has already contributed over 35% of our new customer acquisition. The pocket of the true credit card products added around 1.14 million new merchants during the quarter with over RMB1.5 million monthly transaction volume. This product continues to lift overall engagement level and the thickness of our customer base.
+
+We launched our SME finance business last year and the segment delivered significant growth in Q1, leveraging our risk management, RM expertise in consumer finance, we will balance our unique owner + SME dual core RM model. Under this model, an SME is evaluated both as an entrepreneur [ph] -- current sales and business enterprise. This substantially improves our risk management capability and the efficiency in SME lending.
+
+Most of our SME borrowers are engaged in retail, wholesale, hotel, F&B, food and beverage, and manufacturing. In the first quarter, the total amount of new approved credit lines in SME segments increased 67% on a sequential basis. In addition, our online and offline borrower acquisition channels expanded rapidly. So far, we have established a collaboration with 28 leading partners. These protect [ph] the amount of SME platforms with the broadest channel coverage and our SME loan products quickly became one of the favorite among partners.
+
+Pricing of SME products is generally below 24% with better risk performance, longer tenors, and larger ticket size in consumer loans, which results in higher tax rates around roughly 8% with huge market potential, more supportive regulatory environment, and attractive economy return. We believe SME presents a very promising opportunity for our long-term growth.
+
+Our collaboration with KCB centrally kicked off in the first quarter. Our deep rooted strategic relationship has translated into strong business result. Within just a few months, total accumulative loan facilitation volume from KCB reached around RMB18 billion, with the loan balance at around RMB13 billion.
+
+KCB now has become our largest partner in terms of volume, yet our strong strategy partnership is more than just the scale of the business. More importantly, this trusted partnership has boosted operational efficiency for both parties and in turn, serves as a showcase and help us to improve efficiency when we work with other financial institutions. We have seen positive demonstration effects that have led to notable improvements in our overall efficiency.
+
+We continued to improve bounding efficiency and optimize asset quality of all or funding costs has been our gradual downward trend over the last few quarters as we build more diversified funding sources. So far this year, we have issued a total of RMB2.1 billion ABS, ranking number four in the market with an average coupon rate of 5.6%. Key leading indicators of asset quality further improved and reached a new set of best record in our history. At this point, M1 collection rate increase to over 91% and Day-1 delinquency rate dropped further to 4.9%, the best ever.
+
+Last, let me share a few thoughts regarding current regulatory environment that the guideline of the commercial bank's online lending practice issued by CBRC in July 2020 provided a basic regulatory framework for loan facilitation business. It set some very specific practice examples of the loan facilitation model. We have always conducted our business in strict compliance with this framework.
+
+That is one of the reasons why our loan facilitation model is well accepted by almost 100 financial institutions partners. We have a legal exposure in joint lending and student lending and stick to our role as a tech empowered loan facilitator. We also make sure we do not issue ABS over the leveraged limit.
+
+As you may know, we were among the 13 major FinTech internet platforms that the regulator invited to meet recently. At the meeting, the regulator acknowledged the importance of our role in improving the efficiency of financial service, providing service to our demand and reducing transaction costs. We believe the meeting was a necessary step to apply fill in the balance the regulatory supervision to market participants and promote the healthy development of the platform economy.
+
+Strengthening supervision of the leading players will increase clarity to the regulatory direction of the industry, reduce regulatory overhead, and promote a healthy and more consolidated market space.
+
+Compared to the other FinTech company at the meeting, our business models are relatively simple and straightforward. We have consistently held our operations to the highest of compliance standards. Therefore, we are very confident we can meet any regulatory requirements applied to this industry. As the regulatory framework becomes more clear, we believe that leading FinTech firms like ourselves will embrace a historical era of growth.
+
+Overall, we are very excited that we are off to a very strong start in 2021. For the first time loan balance topped over RMB100 billion and the capital-light model contributed more than half of our loan books. Our strategic initiatives delivered better than expected results and there is more regulatory clarity for the leading FinTech platforms. All of this give us full confidence for our development in 2021 and beyond.
+
+Now, let me turn it over to our CFO, Alex to run through more detail info.
+
+Alex Xu
+
+Okay. Thank you, Haisheng. Good morning and good evening everyone. Welcome to our quarterly earnings call. For the interest of time, I will not go over all the financial line items on the call. Please refer to our earnings release for the details.
+
+As Haisheng mentioned, we had experienced robust consumers demand for credit, along with further improvements in asset quality in Q1 as the Chinese economy continued on a steady upward trend and the Chinese fear related seasonality was muted than normal.
+
+Total net revenue for Q1 was RMB3.6 billion versus RMB3.34 billion in Q4 and RMB3.18 billion a year ago. Revenue from credit-driven service capital-heavy was RMB2.45 million compared to RMB2.56 billion in Q4 and RMB2.81 billion a year ago. The sequential and year-on-year decline was in part due to the facilitation volume and mix change, as cap heavy contribution decreased significantly.
+
+Although a recovery in average pricing offsets some of the negative impact on a sequential basis. During the quarter, average pricing was about 26.6% compared to 25.3% in Q4 and 28.2% a year ago. Going forward, we are expecting a relatively stable pricing environment throughout 2021.
+
+Revenue from platform service cap-light was RMB1.15 billion, compared to RMB780 million in Q4 and RMB373 million a year ago. The robust growth was mainly driven by a 58% sequential growth in facilitation volume from cap-light, ICE, and other technology solutions.
+
+While, the underlying take rate for the platform service were relatively stable, we expect cap-light contribution percentage to continue increase throughout 2021 and eventually accounting for a clear majority of our total volume by the year end.
+
+As macroeconomic activities continued to recover in China, demand for internet traffic also increased significantly along the way. As a result, we have experienced some uptick in sales marketing expenses, average customer acquisition cost per user was prude credit line was RMB217 in Q1 compared to RMB198 in Q4.
+
+Meanwhile, we also noticed a clear pickup in customers' drawdown activity during the quarter. As a result, we were able to maintain a stable and the satisfied ROI despite increases in customer acquisition cost. We will continue to use lifecycle ROI as a key metrics to determine the pace and scope our customer acquisition strategy.
+
+For 2021, at this point in time, we believe current market conditions support a more proactive approach to accelerate the growth of our business. Non-GAAP net income was RMB1.41 billion in Q1 versus RMB1.31 billion in Q4 and RMB255 million a year ago. We once again set a new record in quarterly profitability, driven by higher facilitation volume and noticeable improvement in asset quality.
+
+As we previously communicated to the market, with a transition to a more technology-driven business model, the structure of our financial model has gradually changed. For Q1, we have seen significant improvement in operating margins as increasing contribution from cap-light and other technologies solutions will generally lead to higher margin structure. We continue to expect the overall profitability growth to be more or less keep pace with the facilitation volume growth for 2021.
+
+With strong operating results and increased contribution from capital-light model in Q1, our leverage ratio, which is defined as a key -- as a risk-bearing loan balance divided by shareholders' equity, further declined to 5.4 times from 6.6 times in Q4 and 9.5 times a year ago. We expect to see continued to deleveraging in our business driven by accelerating movement towards cap-light model and solid operating results.
+
+Meanwhile, our provision coverage ratio reached 544% in Q1 compared to 470% in Q4 and 401% a year ago. This was the highest provision coverage ratio in our corporate history, reflecting significant improvement in asset quality and our conservative approach in SME provisions. However, as cap-light become a clear majority of our operations in the future and we are deeply in the safe zone in terms of the provision coverage, we believe this metrics become less relevant to reflect our -- the nature of our business in the future.
+
+Total cash and the cash equivalent increased to RMB9.2 billion in Q1 from RMB7.7 billion in Q4. Non-restricted cash was approximately RMB6 billion in Q1 versus RMB4.4 billion in Q4. A significant portion of our cash was allocated to security deposit with our institutional partners and registered capitals of different entities to support our daily operations.
+
+While we continue to generate strong cash flow through operation, we will also proactively deploy cash to expand our business, invest in key technologies, and the satisfy potential regulatory requirements.
+
+We believe that sufficient cash position will not only enable us to compete in this ever-changing market, but also position us to capture potential growth opportunities in market recovery.
+
+Finally, let me give you some update about our outlook for 2021. While overall business trend has been stronger than we expected so far this year, we intend to keep our tradition of conservative approach in providing forward guidance. As such, for now, we would like to maintain our 2021 total volume guidance of between RMB310 billion to RMB330 billion, representing year-on-year gross of 26% to 34%.
+
+Meanwhile, we expect total facilitation volume for Q2 should be in the range of RMB85 billion to RMB87 billion, representing 15% to 17% sequential growth. We will reevaluate four year guidance when we report our Q2 results. As always, this forecast reflects the company's current and the preliminary views, which is subject to material changes.
+
+With that, I would like to conclude our prepared remarks. Operator, we can now take some questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions]
+
+Thank you. Our first question is Jacky Zuo from China Renaissance. Please go ahead.
+
+Jacky Zuo
+
+[Foreign Language]
+
+So, thanks for taking my questions and congrats for the strong results. I have two questions. Number one is about our SME loan products, we have very strong Q growth in our SME financing. So, just want to understand what is the APR loan size unique economies [ph] about this SME financing products? And what is our loan volume target for SME this year? And I think Mr. Wu, also our CEO mentioned that the take rate is now about 8%. So, how compare 58% with our overall loan take rates.
+
+And secondly is about our tech exports business which is the ICE. So, just want to understand what is the difference between ICE and our other capital-light loan products, what is the take rates and what are the bank partners for this product? So, I observed that our reported loan volume definition change this year -- this quarter I think, start to include this ICE loan volume. So, just want to check what is the ICE loan volume for this quarter and last quarter? Thank you.
+
+Haisheng Wu
+
+[Foreign Language]
+
+Sure, Jacky, let me handle your first question. Well, you're absolutely right, we see a significant growth in our SME business in the first quarter. As you know there are two -- actually two types of SME product in the market. The first type actually we view is more related to consumer finance product. Most of -- a lot of peers they extended the existing consumer finance product to anyone -- to their own -- to -- who are the management or the owner of SME. This actually has some quite similar unit economy with consumer finance products. This is not we are pursuing.
+
+The second type is actually what we are pursuing now, is more -- actually more directly related to SME enterprise itself. We focus on the operational metrics of SME companies. By doing this, risk measurement of SME products, we leverage our existing expertise in consumer finance, uniquely developed the dual core risk management model that means, we evaluate this SME owner both as owner itself also as a SME enterprise. This shows much better unit economy than the general consumer products.
+
+Sure, as we focus on the second observation [ph] more directly related or the truly SME loan because it has larger market potential and the better unit economy returns. The average APR of this product is 20% is for those are more related to the tax-related SME loan or the invoice-related, average APR is around 16%.
+
+Ticket size of SME loan is RMB210,000. As we mentioned in the prepared remarks, the take rate is around 8% which is almost twice -- double the size of the consumer finance loans.
+
+For your second question about the ICE products, as you can see full name is Intelligence Credit Engine products, its focused more on the smarter marketing service. As you see we have accumulated around a 100 financial institutions due to the very long-term cooperation with them, we know their preference and -- very well as we divided them into different layers according to their capability of risk management.
+
+For those who have the intention to improve their risk management probability or they already have very strong risk management capability, we will deliver ICE product to them, which just focused on the customer acquisition service. Therefore as we compare it to capital-light model, the ICE model just provided the customer acquisition service, the take rate is comparatively lower.
+
+As we covered various that type of financial institution like consumer finance, corporate banks, et cetera, we -- there are not much difference among the low assets allocated to them. As we mentioned in the remarks, last quarter this -- of ICE reached RMB2.4 billion compared with [Indiscernible] sites from last quarter.
+
+Jacky Zuo
+
+Thank you.
+
+Haisheng Wu
+
+Hope, we already--
+
+Operator
+
+Thank you, Jacky. Next question is a Richard Xu from Morgan Stanley. Please go ahead.
+
+Richard Xu
+
+[Foreign Language]
+
+Basically two few questions. One is in terms of the funding partners. We're certainly increasing our cooperation with Kincheng Bank, but going forward how do we allocate the loan allocation among different funding partners and any major differences on the take rate.
+
+Secondly is in terms of volume allocation between ICE product and other product, certainly take rate is different. So, what will be the long-term strategic thinking on the loan applications? Thank you.
+
+Haisheng Wu
+
+Sure Richard, let me address your funding question. First of all, the diversification of funding source is always the goal we're pursuing and we will keep that. Secondly, for KCB, as you know we have prudent relationship with KCB, it's very -- it's better that KCB as a showcase and to demonstrate to other financial institutions. In addition, as you see we carry out a lot strategy initiative this year, it's easier for us to explore the new products with KCB collaboration.
+
+Yes, due to our deep rooted relationship with KCB, there might be short-term difference compared to the take rate when we cooperate with other financial institutions, but it will take a longer term view, we will definitely work with all the partners [Indiscernible] business term.
+
+The fundamental reason is our loan product it very competitive in the market. Even there are short-term difference between the KCB business terms with other financial institution business terms, KCB can be at the showcase and in the long-term other financial institutions will catch-up with [Indiscernible].
+
+As we always spend no effort becoming the top clearing team that covered every process or every function of the whole business operations. Therefore, as -- for your question how we allocate different assets or products among these 100 financial institutions, the real -- actually we look at business needs from the funding partners. For example, if the funding partner, they need our comprehensive product then we provide capital-light products. If the funding partner they are very strong in risk management, then we only provide a smart marketing product. If they already have very strong source of customers, then we provide a RM SaaS product to them. All-in-all, we provide a service based on the business needs of our funding partners.
+
+Thank you, Richard, hope I -- got your point.
+
+Operator
+
+Thank you, Richard. Next question is [Indiscernible] from CICC. Please go ahead.
+
+Unidentified Analyst
+
+[Foreign Language]
+
+Okay, then I'll translate my question. Hello management, thanks for taking my question and congrats to our solid results. So, today I had two great questions and the first one is regarding our strategic partnership with KCB. So, I will notice that the KCB has become the largest institution partner in terms of the loan facilitation volume. So, could you please share with us more information on how much contribution actually comes from the KCB in terms of the loan origination in 1Q 2021?
+
+And the second question is about our progress on the SME loan business. So, given our SME loan business has been way on track, so could you please elaborate more on how much contribution comes from the SME loan in terms of the loan origination in 1Q 2021? And the how much contribution will it be -- it will be by the end of this year? Thanks so much.
+
+Haisheng Wu
+
+[Foreign Language]
+
+Yes, you're right. As you can see in terms of business volume, KCB already become our largest partner. As mentioned in the prepared remarks, in Q1 GMV [ph] cooperated with KCB totaled RMB18 billion with loan balance RMB13.3 billion. As we further advanced our business initiative with KCB, we expect to see this number going up in the following--
+
+Second question about the SME loan, as we mentioned that there are two definitions about the SME. For the broader definition that is consumer finance loan related to SME management, in the last quarter, this part contributes around 30% to 40% and we expect to see this number rising up to around 60% to 80% at year end.
+
+For the second more strict definition of SME that is definitely the goal we are pursuing that is more related to the SME enterprise itself. We target to reach RMB10 billion loan balance at year end as you are -- if you recall our guidance of total volume is RMB310 billion to RMB330 billion at year end, roughly you can get the contribution ratio.
+
+Let me add more color about SME, although, it's very early stage of this product, we are trying in multiple directions to further develop this product. For example, with very premium SME enterprise borrower, we may -- or granting around RMB1 million ticket size product and we expect to share more when we see more results coming out.
+
+Alex Xu
+
+Sorry. Alex -- CFO, I'll probably add a couple of details to your questions. First of all, regarding the KCB's volume, as Haisheng mentioned, up to the month of April, the accumulated volume from KCB is about RMB18 billion. But I guess your question is about Q1, for Q1, KCB's volume is roughly RMB10.8 billion, roughly speaking. So, you can use that RMB10.8 billion to calculate the percentage ratio there.
+
+And then regarding the SME there, because -- as Haisheng mentioned, there's two definitions. One is more narrowly defined, the other one is more kind of a broad definition. We use the most sort of a restrictive definition for SME, meaning for those enterprises with the loans issued to the enterprise, with the -- with actual operation, with sales receipt, with taxation information, those kinds of things. That's the narrowest definition for SME.
+
+For that, the total sort of loan volume up to April, it's already at -- that is RMB5.8 billion. Yes, -- sorry, it's not April 2, the first quarter is RMB5.8 billion. The loan balance for this restricted definition is roughly RMB7.5 billion at the end of the first quarter.
+
+Keep in mind this sort of narrowly defined SME loans typically has a much longer duration than the consumer loans, so -- which will result in a pretty fast buildup of the balance as time goes. That's my sort of add a couple points there. Thank you.
+
+Operator
+
+Thank you, [Indiscernible]. Next question is Steven from Haitong International. Please go ahead.
+
+Steven Chan
+
+[Foreign Language]
+
+I'll translate it. Two questions one is about follow-up question on the SME loan facilitation business, I would like to understand the sale of secured -- the sale SME loans with collateral or secure SME loans and unsecured SME loan so far up to maybe April? And how do you compare the asset quality of SME loans relative to the consumer finance loans we have done in say different asset quality indicators? That's the first question.
+
+And second question is, could just tell us why we have a rise in customer acquisition costs in Q1 on a Q-o-Q basis and what will be our outlook on the trend of customer acquisition cost for the rest of 2021? Thanks.
+
+Yan Zheng
+
+[Foreign Language]
+
+So, in fact, our SME customer is lower than the overall market, about 70% to 80% of overall levels and we use the door for managing to control the SME product which means that the enterprise class business owner and the use of the [Indiscernible] income product otherwise we will operate more owners that individual customers, but this is obviously a difference between individuals and small business.
+
+Haisheng Wu
+
+As we show before that, when we actually conduct our real operations, it's not as easy because the way we are looking at, if the ROI, return on investment, of customers we are -- we look at. As for in the first quarter, we believe we successfully conducted the better customer acquisition strategy is demonstrated by higher customer approval rate and larger ticket size which in turn improve the ROI.
+
+As we expect the SME business, if we purely look at CAC metrics, since they have the larger ticket size, longer turn, and the lower APR is on the safety level, it will push up this number.
+
+However, in actually business operation, we believe expanding SME is much better business decision for us as though asset quality is better and higher ROI and better unit in our economy.
+
+Alex Xu
+
+Steven, this is Alex, just want to add one follow-up point from Haisheng's point. As Haisheng mentioned that as we expand into the SME, one nature of the SME business is that large ticket size, longer duration loans, which also associated with a much higher per ticket customer acquisition cost, okay. And -- so that -- because we are kind of a growing SME business in Q1 -- more, I guess proactively, that mix change also result in a little bit higher, kind of, per credit line customer acquisition cost as we put it. So, if you sort of get rid of the SME portion, just look at the consumer portion, the change was not as high as the -- were reported number. So, just add up to the point. Thank you.
+
+Operator
+
+Thank you, Steven. Due to time constrains, I will now hand the session back to management for closing debrief. Please go ahead.
+
+Alex Xu
+
+Okay. Thank you, everyone, for joining us for the conference call. If you have additional questions, please feel free to contact us. And that's it for the call, thank you.
+
+Operator
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.

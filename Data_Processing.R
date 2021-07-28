@@ -23,18 +23,19 @@ library(xml2)
 base::rm(list = base::ls())
 
 ## Initialize processed data list, start count, and available tickers
-processed <- base::list()
+processed3 <- base::list()
 iteration <- 1
 available_tickers <- TTR::stockSymbols(exchange = c("AMEX", "NASDAQ", "NYSE"))$Symbol
-available_tickers <- available_tickers[!(available_tickers %in% c("MON", "EDR", "AAN", "CHK", "GPOR"))]
+available_tickers <- available_tickers[!(available_tickers %in% c("MON", "EDR", "AAN", "CHK", "GPOR", "IR", "PAY", "XL", "ACET"))]
 
 ## Loop through each file and process the raw data
-for (i in 1:2065) {
+for (i in c(1:5)) {
   
-  i <- base::list.files("MAEC_Dataset")[i]
+  i <- base::list.files("confirmed_lawsuits")[i]
   
   ## Read in .txt file as a vector
-  raw_text <- dplyr::pull(readr::read_delim(base::paste0("MAEC_Dataset/", i, "/text.txt"), delim = "\r\n", show_col_types = F), 1)
+  #raw_text <- dplyr::pull(readr::read_delim(base::paste0("MAEC_Dataset/", i, "/text.txt"), delim = "\r\n", show_col_types = F), 1)
+  raw_text <- dplyr::pull(readr::read_delim(base::paste0("confirmed_lawsuits/", i), delim = "\n\n", show_col_types = F), 1)
   
   ## CReate corpus
   corpus <- tm::Corpus(tm::VectorSource(raw_text))
@@ -80,12 +81,12 @@ for (i in 1:2065) {
     
     ## Add descriptor columns
     sentiments$date <- base::as.Date(base::substr(i, 1, 8), "%Y%m%d")
-    sentiments$ticker <- base::substr(i, 10, base::nchar(i))
+    sentiments$ticker <- base::substr(i, 10, base::nchar(i) - 4)
     
-    if (base::substr(i, 10, base::nchar(i)) %in% available_tickers) {
+    if (base::substr(i, 10, base::nchar(i) - 4) %in% available_tickers) {
       
       ## Get DoD return for specific date and ticker
-      prices <- quantmod::getSymbols(base::substr(i, 10, base::nchar(i)), from = base::as.Date(base::substr(i, 1, 8), "%Y%m%d"), 
+      prices <- quantmod::getSymbols(base::substr(i, 10, base::nchar(i) - 4), from = base::as.Date(base::substr(i, 1, 8), "%Y%m%d"), 
                                      to = base::as.Date(base::substr(i, 1, 8), "%Y%m%d") + 1, auto.assign = F)
       sentiments$return <- base::as.numeric((prices[, 4] - prices[, 1]) / prices[, 4])
       
@@ -96,16 +97,17 @@ for (i in 1:2065) {
     }
     
     ## Append to processed data set
-    processed <- base::append(processed, base::list(sentiments))
+    processed3 <- base::append(processed3, base::list(sentiments))
   }
   
   ## Print iteration count
-  base::print(base::paste0("Completed ", iteration, " of ", base::length(base::list.files("MAEC_Dataset"))))
+  #base::print(base::paste0("Completed ", iteration, " of ", base::length(base::list.files("MAEC_Dataset"))))
+  #base::print(base::paste0("Completed ", iteration, " of ", base::length(2070:3443)))
   iteration <- iteration + 1
 }
 
 ## Bind processed data into a single data frame
-processed <- dplyr::bind_rows(processed)
+processed3 <- dplyr::bind_rows(processed3)
 
 ## Scrape Stanford Law website
 cases_filed <- base::list()

@@ -1,0 +1,311 @@
+Operator
+
+Good afternoon and welcome to the CorMedix First Quarter Earnings Conference Call. Today’s conference call is being recoded. There will be question-and-answer session at the end of today’s presentation and instruction on how to ask a question will be given at time.
+
+At this time, I would like to turn this conference call over to Mr. Daniel Ferry from LifeSci Advisors. Please go ahead. You may begin.
+
+Daniel Ferry
+
+Good afternoon and welcome to the CorMedix first quarter 2021 earnings conference call. Leading the call today is Khoso Baluch, Chief Executive Officer of CorMedix. He is joined by Dr. Phoebe Mounts, Executive Vice President and General Counsel; and Dr. Matt David, Executive Vice President and Chief Financial Officer; Ms. Liz Masson-Hurlburt, Executive Vice President for Clinical Operations; and Mr. Tom Nusbickel, Executive Vice President and Chief Commercial Officer.
+
+Before we begin, I would like to remind everyone that during the call, management may make what are known as Forward-Looking Statements within the meaning set forth in the Private Securities Litigation Reform Act of 1995. These statements are subject to certain risks and uncertainties and include, but are not limited to, any of the following; any statements other than statements of historical fact regarding management’s expectations, beliefs, goals, and plans about the Company’s prospects, including its clinical development program and marketing approval for DEFENCATH in the U.S. and other product candidates; future financial position; future revenues and projected costs; and potential market acceptance of DEFENCATH, Neutrolin, and other product candidates.
+
+More specifically, forward-looking statements include any statements about our clinical development plans and the timing, cost, results, and interpretations thereof; projections as to the Company’s future capital raising and spending and cash position; expectations as to the timing and nature of anticipated regulatory actions; possible product licensing, business development or other transactions; any commercial plans and expectations; market projections for our product candidates; and expectations as to manufacturing and product component costs.
+
+Actual results may differ materially from these projections or estimates due to a variety of important factors, including, but not limited to, uncertainties related to clinical development, regulatory approvals and commercialization. These risks are described in greater detail in CorMedix filings with the SEC, copies of which are available free of charge at the SEC’s website at www.sec.gov or upon request from CorMedix.
+
+CorMedix may not actually achieve the goals or plans described in these forward-looking statements and investors should not place undue reliance on these statements. Please note that CorMedix does not intend to update these forward-looking statements except as required by law.
+
+At this time, it is now my pleasure to turn the call over to Mr. Khoso Baluch, Chief Executive Officer of CorMedix. Khoso, please go ahead.
+
+Khoso Baluch
+
+Thank you, Dan. Good afternoon, everyone, and thank you for joining us on this call. On today’s earnings call, we will discuss the first quarter 2021 financial information and the overall progress CorMedix is making in bringing DEFENCATH to the U.S. market for its first indication for use as a catheter lock solution for hemodialysis patients through reduced catheter-related blood stream infections.
+
+Joining me on this call are Phoebe, Matt, Liz and Tom Nusbickel, who joined CorMedix this morning. So let’s begin on the people side first. As announced this morning. I’m pleased to have Tom Nusbickel, joined CorMedix as Executive Vice President and Chief Commercial Officer. Tom brings with him a depth of experience on the commercial side from his time at Amgen, Pfizer and Opco.
+
+Of particular note for CorMedix was Tom’s time at Amgen, where he gained several years of experience operating in the hemodialysis space, both in the U.S. and internationally. Tom brings marketing, market access and government affairs experience that will augment the commercial expertise of the team that CorMedix has already built.
+
+We are pleased to have Tom join us at this important stage for CorMedix as we continue to refine our launch plans. Although today it is Tom’s first day, we have already started the process of bringing Tom up to speed on the ongoing activities and strategic priorities for the company. Later during this call, Tom will share some of his thoughts. So welcome, Tom.
+
+On April 14th, CorMedix issue a press release that provided an update of our meeting with the FDA. What we stated in that press release included that there was an agreed-upon protocol for manual extraction study identified in the CRL that FDA is requiring us confirmation of an in process control to demonstrate that the label volume can be consistently withdrawn from the bio.
+
+In addition, addressing FDA’s concern regarding the qualification of the filling operation at the third-party manufacturing facility may necessitate adjustments in the process and generation of additional data on operating parameters for the manufacturing of DEFENCATH. During this call, Phoebe will provide you an update of the progress CorMedix has made today on addressing the deficiencies identified by FDA as a third-party manufacturing facility.
+
+In addition to the continued effort to bring DEFENCATH across the finish line for hemodialysis patients, CorMedix has been making progress by initiating the work required for label expansion of DEFENCATH for use in TPN and oncology patients using a central venous caster once the FDA has approved the NDA for the initial indication for use.
+
+What Liz would provide an update of the work a team in conjunction with the medical group and the regulatory group are doing to prepare the groundwork required to enter into clinical study for label expansion when DEFENCATH is approved.
+
+We are proceeding with these plans while limiting our cash burn so that financially, we have the resources required to successfully bring DEFENCATH to patients in the U.S. Matt will provide you an update of our quarter one 2021 financials and provide color regarding the strength of CorMedix’s balance sheet.
+
+So now let’s move to the first topic, the introduction of to Tom Nusbickel. Tom.
+
+Thomas Nusbickel
+
+Thank you, Khoso, for the warm welcome and kind introduction. I am excited to be joining CorMedix at this pivotal time for the company. The DEFENCATH is a novel, catheter lock solution with the potential to prevent catheter-related bloodstream infections in several large markets, addressing significant clinical and economic needs.
+
+As DEFENCATH approaches a potential approval by FDA for reducing CRBSIs in patients with kidney failure receiving hemodialysis through central venous capital, the company will be accelerating its activities to be able to bring DEFENCATH to hemodialysis patients who can benefit from it as quickly as possible after FDA approval.
+
+As Khoso mentioned in his introduction, I had spent my career in the pharma industry, where I have gained significant leadership experience in launching products and developing commercial strategies, including highly relevant experience in the chronic kidney disease space.
+
+This experience and my relationships within the nephrology community will enable me to help CorMedix build a high-impact commercial organization, as we move closer to the Company’s first approval and subsequent launch in the hemodialysis market.
+
+As I have learned more about CorMedix, I am extremely impressed with the firm clinical foundation the team has built with the DEFENCATH. My objective will be to lead the commercial team as it works to realize the promise for DEFENCATH, to become the new standard of care for hemodialysis, oncology and TPN patients, using central venous catheters.
+
+I’m energized by this opportunity, and I’m excited to join CorMedix today as we prepare to bring DEFENCATH to patients. Let me hand it back to Khoso.
+
+Khoso Baluch
+
+Thank you, Tom. Now I would like Phoebe to provide the regulatory update, starting from the press release of April 14th after the FDA meeting. Phoebe.
+
+Phoebe Mounts
+
+Thank you, Khoso. Good afternoon, everyone. I am pleased to report that the CorMedix CMC and regulatory teams are continuing to work collaboratively with our third-party manufacturing facility to resolve the deficiencies identified by FDA during its review of the DEFENCATH NDA.
+
+As we previously discussed, the complete response letter, or CRL, sent to CorMedix by the FDA required a manual extraction study to demonstrate that the labeled volume of DEFENCATH can be consistently withdrawn from the vials to confirm the manufacturing in process controls.
+
+I am pleased to report that the study has been completed successfully. As noted by Khoso, we announced after the meeting with FDA that we had an agreed-upon protocol that has now been executed.
+
+The data clearly demonstrate consistent withdrawal of the labeled volume from the vials. The CorMedix CMC and regulatory teams continue to focus our efforts on resolving the deficiencies and to the contract manufacturer or CMO, in the post application action letter.
+
+As we have explained previously, the major focus of FDA’s concerns was on the qualification of the filling operation and CorMedix and the CMO have been evaluating available data to assess the need for adjustments in the manufacturing process and generation of additional data on operating parameters for manufacture of DEFENCATH.
+
+Based on our analysis, we have concluded that additional process qualification will be needed with subsequent validation to address the deficiencies identified by FDA. As a result, our current plan is to be able to resubmit the defend cap NDA in the fourth quarter of 2021.
+
+At the meeting with FDA in mid-April, FDA stated that the review time line would be determined when the NDA resubmission is received. FDA also expects all corrections to facility deficiencies to be complete at the time of resubmission so that all corrective actions may be verified during an on-site evaluation in the next review cycle, if the FDA determines it will do an on-site evaluation.
+
+Our goal is to ensure that FDA can conclude that the manufacturing facility is ready to support commercial operation for DEFENCATH without the need for an onsite inspection. As I have explained on a previous call, FDA identified the deficiencies based on a review of records that it requested from the CMO. There was no on-site inspection due to travel restrictions in place because of the ongoing COVID-19 pandemic.
+
+We are hopeful that FDA will continue to recognize the potential for DEFENCATH, to address an unmet medical need of reducing life-threatening, catheter-related bloodstream infections and complete the review of the manufacturing facility using the record review approach to approve the NDA as quickly as possible.
+
+However, we are gratified that if FDA decides that an inspection of the CMO is required before the DEFENCATH NDA can be approved; it now has the option to use a remote interactive evaluation.
+
+In a guidance document recently released by FDA, the agency will decide when it is appropriate to conduct a remote interactive evaluation for a pre-approval inspection to assess a marketing application. Virtual interactions hosted by FDA’s IT platforms and equipment will be scheduled when the manufacturing facility is operational.
+
+The preapproval inspection will assess whether the facility can perform the manufacturing operations in conformance with current good manufacturing practice requirements. FDA expects that the use of remote interactive evaluations should help the agency operate within normal time frames in spite of the COVID-19 pandemic. As we have consistently stated, we are committed to providing updates as we move through resolution of the deficiencies.
+
+Thank you. And I will now turn the call to Liz for an update on clinical activities at CorMedix. Liz.
+
+Elizabeth Masson-Hurlburt
+
+Thank you, Phoebe. Good afternoon, everyone. I’m excited by the recent efforts and activities of the clinical team as it relates to DEFENCATH. Given the versatility of DEFENCATH, we are able to explore potential opportunities for label expansions as well as potentially expanding the hemodialysis market.
+
+To start, we have been researching the standard of care and patient profiles of pediatric patients receiving hemodialysis via a CBC. These young patients come to hemodialysis very differently than the adult population we studied in LOCK-IT-100. In children, the most common causes for dialysis are congenital defects, small or nonfunctioning kidneys or scarring in the glomera live, the filters in the kidney.
+
+Similar to adult, pediatric patients using a catheter experienced complications like blood stream infections and clotting. And given the inherent vascular challenges, maintaining catheter patency and health of the patients are critical.
+
+Furthermore, while pediatric patients often move to a fistula for primary access, there is a subgroup of patients that remain on long-term catheter care and these patients specifically have an unmet need.
+
+We have had numerous in-depth conversations with key thought leaders in pediatric hemodialysis and gain support to develop a pediatric program for DEFENCATH. The outpatient hemodialysis centers serving pediatric patients are often hospital-based with significant involvement from the treating physicians.
+
+These centers are often affiliated with esteemed academic medical institutions that house experts in the pediatric renal space. Based on our many interviews and feasibility questionnaires. We have developed a robust clinical protocol that expands the use of DEFENCATH into pediatric patients. This study is designed to include pediatric patients younger than 18 years old with varying catheter sizes.
+
+CorMedix submitted this protocol to FDA and is awaiting review, contingent upon the NDA approval. As we previously discussed, the DEFENCATH antimicrobial protective properties are potentially beneficial to a number of patient populations, including vulnerable patients undergoing chemotherapy and those receiving total parenteral nutrition or TPN. These patients greatly depend on their vascular access to deliver life-saving medicines and nutrients.
+
+The need to protect those catheters is a priority for the patient’s treatment team. Over the past month, the CorMedix clinical team has conducted a number of in-depth interviews with frontline health care providers and assess published literature to understand not only the occurrence of CRBSI in these groups, but also the management and medical needs of these patients across the continuum of care.
+
+It is clear based on the ongoing threat of infection that the need to reduce CRBSI to maintain catheter access remains high. For TPN patients, we have heard from clinicians that there remains a significant unmet medical need in this area.
+
+Cancer diagnosis in the United States continue to grow at an alarming rate and by 2040, it is expected the number of new cancer cases per year will be approximately 30 million compared to just over 18 million in 2018. Because chemotherapy and other treatment regimens leave oncology patients more vulnerable to infection due to immunosuppressants, protecting their catheters is a significant priority.
+
+Regardless of the type or stage of disease a patient has, we are confident that DEFENCATH can provide a reduction in CRBSIs. We look forward to expanding our knowledge in these patient populations and the evolving treatment paradigm so that we can appropriately design protocols that align with health care system in place to support the medical need specific to these patients.
+
+Thank you. And I will now turn the call to Matt to cover financial results and cash guidance. Matt.
+
+Matthew David
+
+Thank you, Liz. I’m pleased to be here today to provide an overview of our first quarter 2021 financial results as well as an update on recent financing activity and cash position. The company has filed its report on Form 10-Q for the first quarter ended March 31, 2021. I urge you to read the information contained in the report for a more complete discussion of our financial results.
+
+With respect to our first quarter 2021 financial results, our net loss was approximately $7.2 million or $0.20 per share, compared with a loss of $5.6 million or $0.21 per share in the first quarter of 2020. The higher net loss recognized in 2021 compared with 2020 included increased expenses related to our preparations for DEFENCATH commercial launch. We recorded increases in both SG&A as well as R&D expenses.
+
+Operating expenses in the first quarter of 2021 increased approximately 29% to $7.2 million compared with $5.6 million in the first quarter of 2020. R&D expense increased by approximately 7% to $2.6 million, driven primarily by increases in personnel expenses and non-cash charges for stock compensation, offset by a decrease in manufacturing costs and clinical trial expenses due to the closing of the LOCK-IT-100 trial.
+
+SG&A expense increased approximately 45% to $4.6 million compared with $3.2 million in the first quarter of 2020. This increase was driven primarily by increases in non-cash charges for stock compensation, increased costs related to market research in preparation for the potential approval of DEFENCATH and higher staffing costs due to additional hires.
+
+We recorded net cash used in operations during the first quarter of 2021 of $6.7 million compared with net cash used in operations of $8 million in the first quarter of 2020. The decrease was primarily driven by higher non-cash compensation, offset by an increase in net loss, a larger decrease in accrued expenses and a smaller increase in prepaid expenses versus the same period in 2020.
+
+As we have discussed on our year-end earnings call, CorMedix is in a strong position from a balance sheet perspective. The company has cash and equivalents of $81.2 million as of March 31, 2021. We believe this gives the company flexibility to resolve the manufacturing efficiencies that have been identified, resubmit the DEFENCATH NDA, continue to prepare for bringing DEFENCATH to market and take CorMedix at least into the second half of 2022.
+
+While we are continuing to work through the identified manufacturing issues, we appreciate the support of our investors. We remain active participants in investor conferences as we look to strengthen the shareholder base and raise awareness among the institutional investor community regarding CorMedix and DEFENCATH’s potential value proposition.
+
+With that, I would like to pass the floor back to Khoso.
+
+Khoso Baluch
+
+Thank you, Matt. CorMedix is continuing to drive forward on our goal of bringing DEFENCATH to the U.S. market for the hemodialysis segment, which represents a significant market with a very large unmet medical need.
+
+Today, where patients urgently need an antimicrobial catheter ROC solution for prevention of CRBSI in central venous catheter, there is no pharmacological agent approved in the U.S., DEFENCATH cap would be the first anti microbial catalog solution approved by FDA in the U.S. Where deaths occur in as many as 35% of hemodialysis patients experience for CRBSI.
+
+To summarize, we continue to focus our effort on 3 fronts: expeditiously resolving the third-party manufacturing deficiency, continue to expand our connections with the hemodialysis community and prepare CorMedix to successfully launch DEFENCATH when approved by the FDA; and preparing the clinical study protocols for DEFENCATH label expansion beyond hemodialysis.
+
+So that in a post-approval setting, we will be able to start this study in a timely manner. We remain confident that we have the right team and appropriate resources in place to resolve the third-party manufacturing deficiency. That have been identified and bring DEFENCATH to the hemodialysis patients in the U.S. We expect to continue to provide updates throughout this process. Thank you for your continued support of CorMedix.
+
+And now let me hand the call back to Laura, the moderator. Operator.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Jason Butler with JMP Securities.
+
+Jason Butler
+
+Congrats on the progress in the quarter. First one, just on the manual extraction study, could you just confirm that with the protocol you agreed with FDA, did you agree a statistical analysis plan? And the results from the study fall within what you agreed on that SAP and within the typical guidelines that FDA has for vial fill consistency?
+
+Khoso Baluch
+
+Thank you, Jason, for your question. Phoebe?
+
+Phoebe Mounts
+
+Yes. We can assure you that we were successful in completing the study as FDA required.
+
+Jason Butler
+
+Okay. Great. That is great to hear. And then in terms of the additional in process qualification work, have you already agreed with your CMO what the plan is there? And what needs to be done? And is there any granularity you can give us in terms of time lines to complete that work?
+
+Phoebe Mounts
+
+Yes, we have agreed with the CMO on the plan to go forward to resolve the deficiencies and generate the additional data required by FDA. As we have said, the FDA has focused on the in-process controls and has requested some additional data on the process qualification. And as a result of that, we will be required to manufacture the validation batches to fulfill the request from the agency.
+
+Jason Butler
+
+Okay. Great. And then just last 1 for me. Tom, congrats on your appointment. Could you maybe highlight some of the key activities you are going to be focusing on now ahead of the launch and what you think the key attributes of DEFENCATH are that will drive your marketing message for the launch?
+
+Khoso Baluch
+
+So Jason, as you know, today’s Tom’s first day, we are beginning to dig on the work that we have done so far. And so Tom is beginning to go through what we have got in place and what is still missing. So I would give a little bit more time before we get into the details of what the game plan is from Tom’s side.
+
+But I think he can share with you his experience, particularly in the hemodialysis space of what he has been involved in over the years and maybe that would be a good introduction of Tom to what he is doing. Tom.
+
+Thomas Nusbickel
+
+Sure. Thank you, Khoso. Yes. As Khoso mentioned, at Amgen, I led the global launch and Axis for Sensipar, growing Sensipar to over $1.5 billion in peak sales. A key element of Sensipar success was its strong global value communication strategy, which focused first on the high disease burden and unmet need in secondary hyperparathyroidism and then the superior outcomes that were achieved with Sensipar versus the standard of care.
+
+Then when CMS in Medicare proposed adding Sensipar to the dialysis bundle in 2011, I work closely with the dialysis community to develop strategies to protect ESRD patient access and to provide for physician choice for the best SHPT therapies.
+
+Ultimately, the community was successful in changing CMS’ proposed policy and oral SHPT drugs were not added to the ESRD bundle in 2011. In addition to my work with Sensipar, I have also worked closely with other renal therapeutics, including Epogen, RNS, Parsabiv, Retacrit and most recently, [RAYALDEE] (Ph).
+
+Jason Butler
+
+Great. Okay. That is helpful. Appreciate it. Congrats on the progress.
+
+Operator
+
+Our next question comes from the line of Joon Lee with Truist Securities.
+
+Leszek Sulewski
+
+Yes. This is Les on for Joon. First of on the - assuming NDA resubmission in the fourth quarter, when would you expect the response from the FDA and when would you expect the next review cycle to take place?
+
+Phoebe Mounts
+
+That was clearly an issue that we discussed with FDA in mid-April when we had the meeting with them. FDA was very clear that the classification would be determined at the time of resubmission of the NDA. And that the time line for review would also be determined at that time. So we have no information at this time on the review time line.
+
+Leszek Sulewski
+
+Okay. I understand. And then on the new guidance that FDA provided regarding virtual inspections. Have you had discussions with the FDA regarding this and do you perhaps handicap that towards a virtual visit, if necessary at this stage?
+
+Phoebe Mounts
+
+No, that guidance document came out after we met with FDA and FDA did not bring it up when we met with them. I think if you read the guidance document, it is clear FDA will decide when it is appropriate to have the remote interactive evaluation and the guidance states that a manufacturing facility cannot request the remote interaction.
+
+So as part of the review process, the FDA will obviously decide, one, if it needs to do an on-site evaluation to assess and verify the completion of the work that is been done to address the deficiencies. And whether or not it can be addressed using the program for the remote interactive evaluation.
+
+Leszek Sulewski
+
+That is helpful. And then last one. In regards to the study for pediatric patients and then later on in hemodialysis patients, would there have to be a re-approval of the CMO?
+
+Khoso Baluch
+
+Good question. Phoebe.
+
+Phoebe Mounts
+
+I think you are asking to do the post-approval pediatric hemodialysis study would the CMO need to be reapproved?
+
+Leszek Sulewski
+
+Yes, assuming that moves forward and then improved in the future.
+
+Phoebe Mounts
+
+The label expansion will be filed as a supplement to the NDA. So at that point, the manufacturing facility would be on a routine inspection program by FDA.
+
+Operator
+
+Our next question comes from the line of Chad Messer with Needham & Company.
+
+Chad Messer
+
+Great. And I do appreciate all the details from the company and especially Phoebe on this. But I and probably most other people on this call and investors necessarily regulatory experts for which I apologize for any deficiency in my own notes and trying to interpret things, but I can’t imagine I’m alone in not being able to follow some of the details you guys have given. So I’m just hoping maybe with a little bit of extra breadth and maybe walk me through it, I ignored on these things, although I got to I have sapped through a bunch of these.
+
+When you say you have additional qualification processes that need to address the FDA, and you think you can submit in the fourth quarter an NDA. And then later on, you were talking about some manufacturing, validation that you need beforehand as much as you can. And I get it. These are not easy questions, and there is a lot of uncertainties to deal with the FDA. But can you maybe timeline me through or just slowly, treat me like I’m not all that smart, which isn’t maybe too far from the truth. What the steps are that you think you need to achieve by this 4Q NDA submission?
+
+Phoebe Mounts
+
+Okay. No need to apologize. No one, individual is an expert in all of these areas. That is why we have a very experienced teams and they are working on this, both the CMC side as well as the regulatory side.
+
+And it is a complicated process and that it is not simple, and like all technical work, needs to be conducted with precision and is subject to issues when something can go wrong. It is highly sophisticated equipment. And so there are times when there may be unexpected results obtained.
+
+FDA’s concern as they express to us during our meetings with them focused on the filling operation, which is the process by which DEFENCATH is during a sterile procedure loaded into the vials and then the vials are kept.
+
+They expect us to generate sufficient data to demonstrate that, that process is a controlled process and is consistent with the agency’s requirements for good manufacturing practice. So clearly, sterility is a very important part of that process, but also the accuracy in making sure the right volume of DEFENCATH is loaded into the vials. And we are talking about thousands of vials during the manufacturing run.
+
+So as I said, it is a complicated process and technically very involved and involves a generation of a lot of data to make sure that the process itself is using the jargon qualified, which means all the equipment has been qualified for the intended use and every step in the manufacturing process has been qualified.
+
+And that everything works as it is intended to produce the product that has to meet its specifications. So they are very detailed requirements on a chemical basis as well on a performance basis that is required for the product.
+
+And so that process needs to be very robust, needs to be reproducible. And the burden is on the manufacturer to demonstrate that the facility can do that process reducibly and generate the required product for commercial distribution.
+
+Chad Messer
+
+Alright. Well, I appreciate you taking back to that. That was clearer than it has been to me in the past.
+
+Phoebe Mounts
+
+Certainly.
+
+Operator
+
+There are no further questions over the phone. I would like to turn this call back over to Mr. Dan Ferry for written questions.
+
+Daniel Ferry
+
+Thank you, Operator. Khoso, we have some rising questions here. First one is for you. Why have you decided to bring on a CCO at this point in time?
+
+Khoso Baluch
+
+Thanks, Dan. Our plan all along was to have a Chief Commercial Officer in place prior to the launch of DEFENCATH. We are now at a point where we are confident in our path forward to a potential NDA approval. And therefore, when the right candidate comes across, we continued with our plans and hired Tom to join us and continue the preparation for the launch of DEFENCATH in the U.S. market.
+
+Daniel Ferry
+
+Okay. Excellent. The next question here is for Matt David, Matt. As the resubmission activity continues with your CMO, how do we think about this affecting your cash burn and for how long? The longer we wait for regulatory progress; the burn must come down, no. How is this theme contemplated in your current cash guidance?
+
+Matthew David
+
+Thanks for the question, Dan. We have factored in the current manufacturing work and resubmission process into our cash guidance. As we have described, we are confident that we have the resources needed to take us at least into the second half of 2022.
+
+Daniel Ferry
+
+Okay. Excellent. And the final question here is for Liz. Liz, what is the timing on beginning these additional studies that you have described in the prepared remarks?
+
+Elizabeth Masson-Hurlburt
+
+Sure. We are looking forward to starting them as soon as we can after we receive NDA approval.
+
+Daniel Ferry
+
+Okay. Very good. Khoso, that is all I have. I would like to turn the floor back over to you for closing remarks.
+
+Khoso Baluch
+
+Thank you, Dan. CorMedix has an experienced team of executives who have taken pharmaceuticals through various phases of clinical study, registration and successfully launched products onto the U.S. market.
+
+CorMedix remain committed to bringing DEFENCATH to the U.S. market, whether on our own or with a strategic or commercial partner to help patients in need of protection from life-threatening infections. The importance of reducing the incidence of infections and keeping patients out-of-hospital is even more apparent during this ongoing coronavirus pandemic.
+
+Despite the delay in the NDA approval, please keep in mind that the potential for more than 10 years of marketing exclusivity remains because it will not commence until the NDA for DEFENCATH is approved. Thank you for your time and attention, and have a good evening.
+
+Operator
+
+This concludes today’s conference. You may disconnect your lines at this time. Thank you for your participation and enjoy the rest of your evening.
