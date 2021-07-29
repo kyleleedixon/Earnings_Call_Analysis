@@ -1,0 +1,359 @@
+Prepared Remarks:
+Operator
+
+Good afternoon, ladies and gentlemen. Thank you for standing by, and welcome to the PTC 2021 Third Quarter Conference Call. [Operator Instructions] I would now like to turn the call over to Emily Walt, PTC's Senior Director of Investor Relations. Please go ahead, ma'am.
+
+Emily Walt -- Senior Director of Investor Relations
+
+Thank you, Peter. Good afternoon, everyone, and thank you for joining us for PTC's conference call to discuss our third quarter 2021 financial results. On the call today are Jim Heppelmann, Chief Executive Officer; and Kristian Talvitie, Chief Financial Officer. Before we get started, please note that today's comments include forward-looking statements, including statements regarding future financial guidance. These forward-looking statements are subject to risks and uncertainties and involve factors that could cause actual results to differ materially from those expressed or implied by such statements.\\Additional information concerning these factors is contained in PTC's filings with the SEC, including our annual report on Form 10-K and quarterly reports on Form 10-Q. As a reminder, we will be referring to operating and non-GAAP financial measures during today's call. Discussion of our operating metrics and the items excluded from our non-GAAP financial measures and a reconciliation between GAAP and non-GAAP financial measures are included in our earnings press release and related Form 8-K. Lastly, we will be referencing our earnings presentation today, which you can find posted on our IR website.
+
+And with that, let me turn the call over to Jim.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Thanks, Emily. Good afternoon, everyone, and thank you for joining us. I hope you and your families are well during these continued uncertain times. I'm pleased to share that PTC has welcomed many of our vaccinated employees back to our offices where requirements allow, and we look forward to the day when we can do this on a global scale. Meanwhile, we're monitoring the growing concern with the delta variant of the virus and hoping this new development doesn't lead to another round of business lockdowns. Before I dive into the quarter, I want to share some important news on the Investor Relations front. Emily has been doing a great job holding down the fort since Tim Fox left. But keeping up with IR demands is a big job, and Emily was happy to hear that reinforcements are on the way.
+
+I'm pleased to announce the hiring of Matt Shimao as our new Senior VP of Investor Relations. Matt came to us as a recommendation from one of our largest investors, and he came out on top following a thorough search process. Matt comes to us with a finance background and several successful stents on both the corporate side and the sell side of Investor Relations. He is a strategic thinker and we're excited to bring him on board. Turning to slide four. With three quarters behind us, our guidance for FY '21 has us right on track to deliver mid-teens ARR growth and $340 million of free cash flow this year. That will be a fourth consecutive year of double-digit top line ARR growth, and I anticipate we'll be discussing a fifth consecutive year of double-digit ARR growth when we guide fiscal '22 in 90 days or so. While the stronger PMI numbers that we're seeing can only be helpful, I'm pleased to see that PTC is earning a reputation as a company that can consistently perform at high levels in good times and in bad.
+
+In preparing for this call, I thought back to where we were a year ago with shutdown orders in place, empty offices and factories and schools contemplating how to educate from home. Against that chaotic backdrop, I'm very pleased with the results that PTC has been able to deliver right through the pandemic. Some years back in the days when our portfolio was narrower and sold in a perpetual model, our business was much more cyclical, but consistent, reliable performance is always what we strive for, and we did the difficult work to earn that. The type of steady organic top line growth performance you see from PTC hasn't been the rule in our peer group, especially among our most direct CAD and PLM competitors. I attribute our superior performance to a better business model, to tremendous strength across our entire portfolio and to growth drivers that are now more secular than cyclical. In terms of growth drivers, PTC is well positioned for the future.
+
+The new logo success of our Onshape and Arena businesses demonstrates the growing demand for SaaS technologies. We see PLM joining IoT and augmented reality as key digital transformation technologies for industrial companies and years of market outgrowth in the CAD business speaks to the innovation we've reignited there. Turning now to slide five, so we can get into the Q3 details. PTC delivered another strong performance in top line ARR and bottom line free cash flow in the third quarter. Bookings grew in the mid-30s, a strong rebound in comparison to a year ago when bookings declined. In the top line category, we had a very solid quarter with ARR growth of 18% or 15% in constant currency to $1.42 billion. Growth was driven by solid performance in our growth businesses, continued momentum in our core business where we again outpaced market growth and by a solid contribution from Arena solutions. On an organic basis, ARR grew 14% or 11% in constant currency in Q3, in line with our guidance.
+
+To close out the top line category, revenue growth of 24% as reported was driven by strong execution, aided by the impact of ASC 606 revenue recognition policies plus, of course, the Arena contribution. Switching to the bottom line category. We delivered strong free cash flow of $85 million and non-GAAP EPS growth of 34%, reflecting a combination of strong top line results, combined with continued operating expense discipline even while we also invest for growth. We continue to feel confident about our FY '21 target, up $340 million in free cash flow. Moving to slide six. Digital transformation remains our main secular driver of growth. You may remember last quarter, I shared our new tag line, digital transforms physical.
+
+These three words are captured in our logo and embody how PTC thinks about our long-term strategy. PTC is a digital company, but our customers do business in the physical world, making physical products in physical factories and servicing those products at physical customer sites. In my LiveWorx keynote in June and again at our Global Partner Summit in July, I outlined the power of PTC's unique digital transformation story that has one foot in the digital world and one foot in the physical world. We tell our customers that our digital transforms your physical. And by that, we mean we help customers use digital to define, manage, connect and augment physical products. Our portfolio is already transformative. But now with SaaS, PTC is at the very forefront of thinking about how customers will use digital to disrupt physical in terms of taking an entirely different approach across the hardware, software and system administration of their IT systems. SaaS is surely coming to our market as it has so many other B2B software markets, and PTC has carved out an enviable leadership position.
+
+We now have the most to gain from this disruptive force. With that as context, let's take a look at the respective contributions of the FSG, Core and Growth segments of our portfolio. Moving to slide seven. You'll see that ARR in our Focused Solutions Group showed growth of 4% or 1% constant currency, which aligns with our growth expectations for this segment. ARR growth for our core business was 14% or 11% in constant currency. Our growth segment saw 60% ARR growth with 23% organic constant currency growth, reflecting on one hand, some lingering hangover from COVID, but counterbalanced by solid performances from our Onshape AR and Arena SaaS solutions.
+
+Let's go a click deeper into the main elements of our large core and growth segments. Turning to slide eight. Our CAD team delivered another impressive quarter with ARR growth in the low double digits, reflecting growth across all geos and an improving demand environment. The additional features and functionalities that Creo seven delivers, including Creo Simulation Live and Creo ANSYS simulation, continue to demonstrate the power and differentiation of Creo. In addition, last quarter, we announced Creo 8, which includes the generative design extension module called GDX, which is based on our Atlas SaaS platform. While it's still early days for Creo leveraging Atlas, this module is a great example of how PTC plans to deliver innovative SaaS-based capabilities as we systematically transition our core products to SaaS. On slide nine, a great example of how CAD generative design and real-time simulation make an enormous impact can be found at HPE COXA, a provider of products, engineering solutions and technology projects for the performance automotive and motor sports sectors.
+
+The company designs and manufactures car components and complete systems for some of the highest profile, super premium sports car brands around the globe. Inefficiencies in a multistep, multi-software approach to design were causing miscommunication between design and analyst teams, which delayed production times and caused customer satisfaction risks. By adopting fully integrated and streamlined generative simulation and additive technology workflows in Creo, HPE COXA has simplified the design sequencing, reduced overall design and production time and improved design agility and time to market.
+
+Moving on to slide 10 in our PLM business. You'll see that PLM continued to deliver very strong performance with another mid-teens ARR growth quarter. From a geographic perspective, in Q3, we saw broad-based strength across all our geos and in our customer base with a solid quarter in the reseller channel. And we saw increased demand for PLM through the Microsoft alliance, another proof point suggesting more customers are understanding the critical role that PLM plays in their digital transformation initiatives. Incidentally, during the quarter, we won three more Partner of the Year awards from Microsoft. On slide 11, we profile a win with cell centric, a Daimler Truck and Volvo joint venture, which helps hydrogen fuel cells -- or which develops hydrogen fuel cell systems and believes that PTC's PLM solution is best in class. As the deadline of becoming an independent entity loomed on the horizon, cell-centric knew they needed a PLM backbone in place quickly. PTC delivered our cloud-based Windchill offering establishing a best-in-class application landscape for PLM in a great competitive displacement.
+
+Moving on to our growth businesses. I'll begin with IoT on slide 12. IoT delivered high teens year-over-year ARR growth, delivered -- driven by strength in Europe and APAC. Rockwell was the largest reseller of IoT in the quarter. On slide 13, we discussed how Eaton, a multinational power management company saw the need to deploy a digital transformation strategy across their enterprise. Our factory insights as a service IoT application helped to deliver quick wins, forming a digital foundation upon which they can easily add more use cases. Eaton was able to realize multiple improvements, including improved OEE, reduction in unscheduled maintenance, reduction in manual efforts and 100% worker compliance with SOPs.
+
+Let me shift to our augmented reality business on slide 14. The Vuforia augmented reality team again delivered strong results in Q3 with ARR growing across all geos. We saw improving retention and expansion rates and the opportunity to cross-sell into the larger PTC portfolio is gaining momentum. This quarter, we also announced a new AR product, Vuforia Instruct, a unique Atlas-based SaaS solution designed to enable enterprises to leverage 3D CAD data to deliver -- create, deliver and scale interactive AR work instructions to optimize inspection procedures. When you consider that 2/3 of manufacturers are still using paper-based inspection processes, you can appreciate how Instruct delivers considerable value to our customers. Vuforia resonates with the customers we engage through our alliance with Microsoft and one of the awards we won this quarter was Partner of the Year in mixed reality.
+
+On slide 15, you'll see an innovative example of the use of augmented reality that comes from Stana, a UK company dedicated to the design, production and service of residential and commercial stairlifts. Stairlifts are customized systems configured for and installed in the consumer's home to help those with difficulty navigating stairs. For example, the move from the first floor living room to the second floor bedroom. Stana leveraged Vuforia to create an AR application that allows customers to see how a customized 3D hologram chairlift could fit and work in their homes. With COVID limiting the amount of face-to-face interaction by sales and service teams, Vuforia enabled a customer-centric tool that could be used by sellers during the sales cycle to help potential buyers visualize a residential stairlift in their home. Stana saw increased purchase confidence, improved differentiation against competitors and shorter sales cycles through improved customer communication.
+
+Turning now to slide 16. Onshape delivered a very strong quarter with ARR growth of 40% year-over-year. We had a very strong bookings quarter in the Onshape core commercial business with larger deal sizes and stronger renewals, thanks to a maturing product. Onshape continues to gain share in the education market, too, as schools and students turn to SaaS-based solutions for mobility and ease of everything. Looking ahead to Q4, we see a strong pipeline for both the commercial and larger account enterprise business.
+
+Turning to slide 17. It Is fun highlighting customer stories, especially when that customer is solving a problem through innovation. Delta development and R&D companies specializing in military applications for cooling and heating systems in extreme environments was contracted to design and manufacture an autonomous portable refrigeration unit for deployment by Medix on the battlefield. The company was seeking to reduce its IT overhead, which had been taking up 20% of the engineering team's product design time.
+
+By moving from an on-premise CAD system that took a lot of care and feeding to Onshape, the time loss associated with software installations, licensing and regular system upgrades was eliminated. They both reclaimed the 20% of their design capacity and at the same time, enabled real time collaboration on 3D designs across a distributed team environment. Moving to Arena on slide 18. Arena continues its growth trajectory, delivering ARR growth of over 20%. Arena is seeing strong traction with upselling as they increase penetration into current customer environments and keep retention rates high. By all measures, Arena looks to be a great acquisition. I'm also pleased to note that we opened our first European Arena sales operation during the quarter.
+
+Turning to slide 19. NEXTracker, a flex company is one of the fastest-growing clean tech companies in solar, offering next-generation solar power plants with smart solar trackers and energy storage solutions. The company lacked a single source to track and manage its engineering design and development processes. They needed a better way to manage product information across distributed teams, to enable automated approvals and to improve tracking and accountability.
+
+With Arena, NEXTracker was able to reduce review and approval times by nearly 60%, eliminate time zone delays with global partners and accelerate product introductions by 25%. Arena has helped NEXTracker significantly improve the way they design and get products to market. Naturally, I'm pleased that PTC has been able to complement the strong performance of Creo and Windchill in the traditional market with breakout performance from Onshape and Arena in the burgeoning SaaS market of tomorrow.
+
+The success we're having with Onshape and Arena in the small and mid-market is 100% complementary to Creo and Windchill success in larger companies. Geographic performance was strong on a global basis, and as shown on slide 20, reflecting the performance trends we've seen year-to-date. Americas ARR growth of 21% was driven by solid core performance and Arena. Europe ARR grew 9%, consistent with prior several -- several prior quarters, with strength in CAD, PLM and improving growth in IoT as we work toward full recovery from COVID there. APAC delivered the fourth quarter in a row of mid-teens ARR growth with strong performance in core and growth businesses. Summarizing the state of the business on slide 21, we're pleased with the general good health of PTC across all of its different dimensions and moving parts, and we look forward to wrapping up a great year of ARR and free cash flow growth here in FY '21.
+
+With that, I'll turn it over to Kristian to take you through more details on the financial results and guidance.
+
+Kristian Talvitie -- Executive Vice President and Chief Financial Officer
+
+Thanks, Jim. Good afternoon, everyone. Before I review our results, I'd like to note that I'll be discussing non-GAAP results and guidance, and most of the growth rate references will be in constant currency. So let me start off with a review of our third quarter results, and then we'll review guidance for fiscal '21. Turning to slide 23. Fiscal Q3 ARR of $1.42 billion increased 15% year-over-year. And on an organic basis, ARR grew 11%. Q3 free cash flow of $85 million was solid and in line with our expectations. Q3 revenue of $436 million increased 24% year-over-year as reported or 19% in constant currency.
+
+Revenue performance was driven by strong execution and also reflects the impact of ASC 606 on revenue recognition as well as a modest contribution from Arena. The strong revenue growth, along with continued financial discipline resulted in non-GAAP EPS growth of 34% year-over-year. Turning to page 24, I'll begin with the balance sheet. We ended Q3 with cash of $366 million and $1.5 billion of gross debt with an aggregate interest rate of about 3.1%. We paid down $30 million on our revolving credit facility during the quarter. With our leverage ratio now less than three times, which we told you was our goal, we expect to be in the market buying back shares in Q4.
+
+Now turning to guidance. Slide 25 highlights a few of the key guidance assumptions. And while our assumption on the impact of currency on ARR has changed from neutral to an approximately 60 basis point tailwind, the rest of our guidance assumptions remain the same as they have throughout the year. So putting our ARR guidance into perspective and turning to slide 26. Last quarter, we told you that we expected fiscal '21 ARR to be $1.445 billion to $1.470 billion, a growth rate of 14% to 16%. This assumed 10% to 12% organic growth, 400 basis points from Arena and no FX impact.
+
+Our revised guidance range is now $1.453 billion to $1.478 billion, which is still 14% to 16% growth and assumes 10% to 12% organic growth, 400 basis points from Arena and approximately 60 basis points of currency impact. Regarding ARR linearity in fiscal '21, we've delivered consistent organic constant currency growth around the middle of our guidance range for three quarters, and we continue to expect the growth rate to be consistent in Q4 as we close out fiscal '21. Free cash flow is still expected to be approximately $340 million for the full year, growth of approximately 60% year-over-year.
+
+Our $340 million free cash flow target also includes approximately $15 million of acquisition-related fees, an additional $5 million of incremental interest we expect to pay this year due to the Arena-related debt, approximately $18 million of an unforecasted payment due to a foreign tax dispute and also includes approximately $15 million of restructuring payments. This is offset by incremental cash flow from Arena. And free cash flow is also net of approximately $25 million of capital expenditures.
+
+As a reminder, collections are stronger in the first half, offset by timing of expenses and headcount ramping throughout the year. And as you know, our bond interest payment will hit in the fourth quarter. So we've already delivered more than 90% of the free cash flow target for the year, which is in line with our expectations and has been. Now turning to the P&L guidance. We are raising revenue guidance and EPS guidance for the year. Our prior guidance for fiscal '21 was $1.710 billion to $1.740 billion, a growth rate of 17% to 19%.
+
+We're now expecting fiscal '21 revenue of $1.733 billion to $1.763 billion, a growth rate of 19% to 21%, which includes approximately 200 basis points from Arena and approximately 100 basis points from FX. We're increasing operating margin guidance both on a GAAP and non-GAAP basis. GAAP operating margin increases from 15% to 17% to 17% to 19% and non-GAAP operating margin increases from 31% to 32%, now to 32% to 33%. Non-GAAP EPS guidance previously was $3.18 to $3.39, and our revised guidance is now expected to be $3.35 to $3.60, that's growth of 30% to 40%. Turning to Slide 27. Our total ARR growth, which includes deferred ARR, was 12% on an organic basis in Q3. And we expect organic active ARR growth of 10% to 12% and are now expecting approximately $95 million in deferred ARR for the full year, which is up from what we told you last quarter of around $90 million.
+
+Wrapping up, we had strong financial performance again in Q3. We delivered double-digit ARR growth, while maintaining discipline on our expense structure as we continue to navigate what still remains a somewhat unsteady macro environment. Year-to-date, our performance has positioned us well to deliver attractive double-digit top line growth and very strong free cash flow growth for the year.
+
+So with that, I'll turn the call over to the operator, and we can begin the Q&A.
+
+Questions and Answers:
+Operator
+
+[Operator Instructions] And your first question will come from Saket Kalia with Barclays.
+
+Saket Kalia -- Barclays -- Analyst
+
+Hi, guys. Good afternoon and thanks for taking my questions here. I'll keep it to one, maybe for you, Jim. Lots of fun stuff to talk about with the business this quarter. But maybe just to get it out of the way, I think we all saw some of the announcements by Rockwell and PTC in intra-quarter. So I was wondering if we could get maybe your perspective on how some of those changes may be sort of impact the economic relationship between you two? And how, if at all, it maybe impacts long-term -- PTC's long-term strategy in your view? Does that make sense?
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Yes, sure. Well, the biggest piece of news, of course, was Rockwell acquiring Plex for $2.2 billion or so. So I would say, first of all, everybody should know that Flex is 100% complementary to PTC. We have never ever competed with Plex at all. And in fact, new Plex pretty well because it's run by Bill Brody, who's one of my better friends in life and reported to me for a dozen years or so. So Plex is a great company. We know who they were. We kind of had decided it wasn't quite the right fit for us to acquire.
+
+But actually, we're pleased to see Rockwell acquire them. And I think there's actually some opportunity for synergies between what Plex does and what PTC does. You might almost think that Rockwell is adding Plex in a way, from my perspective, to the innovation suite we built together. So I don't see any conflict at all. I think Rockwell will be probably sharing some attention cycles with Plex that maybe had been previously committed to PTC. So we'll have to see how that plays out.
+
+But in general, Rockwell is an important partner. They won our Partner of the Year award after they acquired Plex. So I think the partnership is important. It's sort of built into the business as we run it today, and I don't see anything dramatic changing there going forward. There was also a question somebody else asked me is Rockwell going to sell their PTC shares.
+
+And I would say you probably should ask Rockwell, but certainly, they have not suggested to us they're going to, and I think their public announcement said they were going to fund the Plex acquisition with new debt and cash on hand. So I don't think anything really changes in the relationship other than something new came in. And on one hand, it's bring in new capabilities that might help us against competitors collectively. And on the other hand, we'll have to share attention cycles with it. So that would be my thought there, Saket.
+
+Saket Kalia -- Barclays -- Analyst
+
+Got it. Very helpful. I'll hop back in the queue. Thanks, Jim.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Thank you.
+
+Operator
+
+And your next question will come from Matthew Broome with Mizuho.
+
+Matthew Broome -- Mizuho -- Analyst
+
+Thanks very much. Hi, Jim and Christian. I guess just on that general theme, it would be interesting to get your sort of updated thoughts on M&A and in particular, given recent market events, how you view the electrical CAD market as an adjacent opportunity. Clearly, you did make an acquisition in that space yourself last year.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Yes. So you're probably referring to some activity between Autodesk and Altium, I'm guessing. So Altium is one of three main printed circuit board designers software companies. And then, of course, there are other companies that provide integrated circuit software. The integrated circuit software really doesn't have a touch point with our world of CAD and PLM, but the printed circuit board design software does. We have a partnership with Altium. I'd like to find ways to strengthen that partnership. I don't really see us trying to acquire them.
+
+For one thing, we'd have to top other desk price, which I don't know that we're in the mood to do. And then secondarily, I don't think they want to be acquired. So I feel like there's a good opportunity there for us to do more in the partnership, both on one hand with Onshape and Arena, which are a nice fit in the lower part of the market with Altium, but also with Creo and Windchill, which are also a nice fit. So there are many Creo and Windchill customers, who put circuit boards in their otherwise mechanical products. And the same would be true of Onshape and Arena.
+
+So there's lots to do there in terms of a partnership. I don't see us trying to acquire them in the near term, given the circumstances, as I know them. We did make a small ECAD acquisition, actually a company called ECAD, MCAD, but it really was a very small deal, and it really was at the interface of ECAD and MCAD. It was not ECAD capabilities, but it was the ability to import in real time synchronize between an MCAD product like Onshape and an ECAD product like Altium. So it's actually going to prove useful in some of the integration activities that we want to do.
+
+But anyway, Altium is a good company. I'm perfectly happy if they remain stand-alone and we, PTC, look forward to strengthening our partnership because there's lots of synergy on both sides of that partnership.
+
+Matthew Broome -- Mizuho -- Analyst
+
+Got it. Makes sense. And then if I can maybe just quickly ask about general interest and demand for generative design within your customer base. Have you -- how have you seen adoption within Creo? And how close are we to seeing sort of GD become an integral part of any sort of mainstream design process for cars and planes and so on.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Yes. I think there's a lot of companies exploring it, trying it out, doing what ifs and proofs of concept. And frankly, they get some pretty good results. But it is a very different way of doing engineering. We always thought of computer-aided design, but actually, the computer wasn't so much aiding the designer. It was just simply documenting the ideas.
+
+But this really is computer-aided design where the software is providing ideas to the engineer as opposed to just capturing the engineers' ideas. That's a different process that people wrap to wrap their head around or follow AI around. But like I said, the results are pretty spectacular sometimes. So there's definitely a lot of interest. I think it will take a while to mainstream. But certainly, it's going to be a wave of growth in mechanical CAD over the next five years. I just -- I don't think it will come on super strong in the near term.
+
+Matthew Broome -- Mizuho -- Analyst
+
+All right. Thanks very much.
+
+Operator
+
+And your next question will come from Jason Celino with KeyBanc Capital. Your line is open.
+
+Jason Celino -- KeyBanc Capital -- Analyst
+
+Great. Thanks for taking my question. Jim, Onshape seems to be doing great, 40% growth, very impressive. The AAR business doing also quite well, but the growth segment did decelerate a bit to that 23% organic constant currency growth level. Is the overhang still on the IoT side? What gets that to turn around?
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Yes. Well, if you look at scale, Jason, about 75% of that growth segment in terms of scale is IoT. IoT is a much bigger business because we started it sooner and really had a lot of success in it. So in a way, right now, as IoT goes, it has a big influence on the overall performance of the overall growth segment. So most of the slower growth was in IoT. And most of it is still related to hangovers from COVID.
+
+So if we kind of look at what's happening on the sales front with IoT, I mean sales have improved year-over-year. They're still not back to where we want them to be. But in general, what we're seeing is a good quantity of deals but smaller deal sizes, which I just attribute really to conservatism around people doing IoT projects in factories and in general as they come back to speed following COVID. You might remember, too, that we mentioned clearly at the beginning of the year that we had a 2-point headwind to growth in our deferred, what we at the time called, backlog, but deferred ARR was a two-point headwind.
+
+Well, a lot of that headwind landed in IoT because that's the place where our sales were softest last year. So some of that is now coming home to roost now. It's not just what did we sell in the quarter, but it's how much backlog did we also take advantage of maturing in the quarter. And that's another pressure that we'll work our way out of as we kind of round trip the COVID impacts of the first -- or the back half of fiscal '20 and the front half of fiscal '21, no, let's say, mostly in fiscal '20 for us.
+
+Jason Celino -- KeyBanc Capital -- Analyst
+
+Okay. Thanks a lot. Thank you for the color. I'll get back in queue.
+
+Operator
+
+And your next question will come from Andrew Obin with Bank of America. Your line is open.
+
+Andrew Obin -- Bank of America -- Analyst
+
+Yes. Good afternoon.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Hey, Andrew.
+
+Andrew Obin -- Bank of America -- Analyst
+
+Hey, how are you. A question about -- actually a question about Onshape. You sort of talked about a more mature model and sort of approaching larger enterprise customers. Can you just talk about where we are in sort of how large or larger enterprises? And where are you in sort of transitioning this product toward your more core customer base away from small and medium businesses, and if I understood you correctly, frankly? Thank you.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Yes. Okay, Andrew. Those are good questions. So first of all, when I use the term enterprise, I was using it as defined by the Onshape team, which generally means an account that would take 15 seats or more. I guess, kind of a small definition of enterprise for the rest of us at PTC, but that's their definition. So I would say the definition of enterprise used by Onshape is a medium-sized company. And the commercial business is small companies.
+
+Now I would tell you that it's just a different buying market. And our Creo software and our Windchill software for that matter does not participate effectively in the market where Onshape and Arena are making hay right now. So it's all complementary. And in fact, honestly, we're borrowing a page from Dessau strategy of 20 years ago when they had SolidWorks in the mid-market and CATIA lenovia in the high end of the market. And those two products prospered side-by-side for 20-some years until they both grew a bit old and retired, but it's a strategy that works. It's market segmentation.
+
+And so I don't think that you're going to see Onshape and Arena put a dent into Creo and Windchill because among other things, Creo and Windchill are adopting the SaaS technology called Atlas that makes Onshape so special. So when Onshape's stealing larger accounts, it's basically, by and large, doing them from SolidWorks and then cherry picking a few others here and there. But they're starting to get some accounts whose brands you recognize. You might remember, we had Garrett, Turbo present at an Investor Day, I believe it was, that's a pretty large company who went from CATIA to Onshape and really went for all the qualities of SaaS that they love and, of course, ease of use and other things of Onshape.
+
+So I think Onshape is an attractive product. It needs to mature more before it really could be a viable replacement for the high-end products, generally speaking. But I think it will start to pick off a lot of medium-sized accounts and an occasional larger account who maybe is overserved by the more expensive, more complicated technology they're otherwise using.
+
+Andrew Obin -- Bank of America -- Analyst
+
+That's a great answer. Thank you so much. I'll get back in the queue.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Thanks. Operator? Operator are you muted?
+
+Operator
+
+And your next question will come from Ken Wong with Guggenheim. Your line is open.
+
+Ken Wong -- Guggenheim -- Analyst
+
+Hi, I'm back just in time. Thanks for taking my question. I just wanted to circle back on Rockwell real quick. I saw you guys mentioned that Rockwell became the largest IoT reseller. Just wondering, is that a new dynamic there? And as we think through some of the kind of those earlier discussion points you had with Saket's question, is that a position that you think kind of sustains going forward kind of based on what we know?
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Well, Rockwell as a reseller has been growing and growing and growing, and most of that reselling is in the field of IoT and AR, let's be clear on that. And we have many other resellers, but they're largely in CAD and PLM. So Rockwell has become an important reseller for sure, of IoT and AR. And I don't see that ending. When I talk to Blake, about how this fits in with his strategy, even post Plex. Blake says, "Hey, I need an IoT platform, I need an AR platform, I even want to have a CAD and PLM platform available to me when required because his competitor, Siemens has that stuff, not all of IoT and AR, but some IoT and lots of CAD and PLM.
+
+So we remain important to Blake, and there's nothing he acquired in the Plex acquisition that supplants any of the capabilities that PTC brought in the FactoryTalk Innovation Suite. So I think it's Blake and Rockwell's strategy, as I understand it, to add Plex to what they're already doing with PTC. And I don't have any issue that whatsoever because I think it's complementary.
+
+And like I said, maybe even some upside opportunities. I just noted that we're going to be sharing some mind share with Rockwell, who now has kind of another child in the family, let's say, that's going to need some attention to. So I don't think it's going to materially change our partnership.
+
+Ken Wong -- Guggenheim -- Analyst
+
+Got it. Thanks for answering my questions.
+
+Operator
+
+And your next question will come from Blair Abernethy with Rosenblatt Securities.
+
+Blair Abernethy -- Rosenblatt Securities -- Analyst
+
+Hi, guys, Jim. Nice quarter, guys. I just want to dig in a little more on Arena. And now that you've owned it for seven-ish months. How are you thinking about the go-to-market there for the team? And is it vis-a-vis Onshape's pipeline. Are you working those two in parallel? Are they coming together? What's sort of your thoughts there as we kind of move through into next year?
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Okay. Great question. So first of all, we're very pleased with the performance of Arena. It has, in fact, accelerated since we acquired it. Now there are several things we're doing that I feel like aren't fully in the game yet. One of them is a link to Onshape. And in fact, we've built some technical integration between the two products, which is easy to do because they're both SaaS based. And that technical integration has generated some rave reviews from customers.
+
+And if you think about it, any customer who wants SaaS for PLM, why not, they have the religion and they really want SaaS for everything, including CAD and vice versa. So we do think there will be some cross-selling there. That might -- that benefit might accrue more to Onshape in the near term because Arena accounts tend to be a little bigger, like one- and two-seat CAD accounts that might not need PLM, but Arena accounts could generate a fair number of CAD seats, 15 or more. So I think there will be some benefit in both directions that might help Onshape first.
+
+But then the thing we can really do for Arena is to globalize the sales force because Arena really is a US-based business, a tiny bit of business in Europe and essentially not in Asia other than sometimes an American company might have some users in Asia, but they're not Asian companies. So we, PTC, of course, are much more globally balanced, and we have the capabilities to help them kind of spread their operation around the world pretty quickly. And that's underway, and I mentioned we opened the European sales operation.
+
+By the way, Arena and Onshape both have basically inside sales go-to-market operations, they don't have sales reps all over the place. You still need a European operation and the right time zones and all that, but it's a cost-effective, go-to-market model as opposed to kind of the PTC larger accounts where we have outside reps living in all the different countries around the world next to the customers and so forth. So I think we're going to be able to generate some acceleration for Arena to even higher levels next year, but we still need to plan all that out, but we certainly have something to work with.
+
+Blair Abernethy -- Rosenblatt Securities -- Analyst
+
+Great. Thank you.
+
+Operator
+
+And your next question will come from Adam Borg with Stifel. Your line is open.
+
+Adam Borg -- Stifel -- Analyst
+
+Great and thanks a lot for taking the question. Maybe just first on the IoT business. Jim, you talked a little bit about there being a hangover. Just curious if you could comment a little bit more about the pipeline as you head into the important fourth quarter.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Well, I think if you look at any ARR stream at PTC, its growth rate is a function of bookings, churn, but also start dates, backlog, price increases and so forth. And again, where IoT has been held back is kind of in deal sizes on new bookings and in sort of a softer -- what we used to call backlog now called deferred ARR. So when we look though at the pipeline, the forecast, I mean, we feel pretty confident. It looks pretty good. So I think we're going to end the year on a strong note.
+
+I certainly expect that based on the forecast in the pipeline. And I think we're in a better position going forward into next year. Bookings certainly are up year-over-year. Like I said, just not back to where we want them to, and that's more deal size than transaction count.
+
+Adam Borg -- Stifel -- Analyst
+
+Super helpful. And maybe just as a quick follow-up. You talked to an earlier question about the replatforming efforts, the Creo and Windchill. And obviously, that's not -- is the non-trivial undertaking. So just curious kind of how is that going? And what percent of your R&D efforts are really focused on the replatforming today and how that should evolve? Thanks again.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Well, this is not going to be a big bang approach. It's going to be kind of a systematic module-by-module approach. And then in the end, we'll have it all replatform, but if you look at what we did with the generative design extension. That's a good model to explain what we're trying to do.
+
+And that is we want to be able to take key subsystems from Creo and Windchill, in particular, and build them on Atlas and deliver better value, more capabilities, better cost profile to customers through SaaS and then take another module. And so a customer might incrementally by more and more SaaS from us over time, and we envision this taking a few years. And then at some point, just flip the switch and say, I'll just take it all to SaaS.
+
+So again, don't think of it as a big bang. Think of it as incremental. Yes, it's a big development effort. The good news is we're not trying to invent the platform we're replatforming until that platform has been under development for seven or eight years by the Onshape guys, -- That's Atlas. And it's a fantastic platform. I mean, really great.
+
+So I feel like time will tell. But in the end, with Onshape, we're going to get a really great SaaS-based CAD system, but we're actually probably going to get something even bigger, which is the singular platform that powers PTC's next generation of software that's going to breathe another decade or so of growth into our Creo and Windchill product lines.
+
+Adam Borg -- Stifel -- Analyst
+
+Excellent. Thanks so much.
+
+Operator
+
+Your next question will come from Matt Hedberg with RBC Capital.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Hey, Matt.
+
+Matt Swanson -- RBC Capital -- Analyst
+
+Great. Thanks, guys. This is Matt Swanson on for Matt. So Jim, I really appreciate the commentary around the secular tailwinds toward digital transformation. But when we're starting to think about your customers as they're presumably returning to on-premise, have you seen any changes in conversations around SaaS more broadly.
+
+And I guess, thinking more about like what's driving your customers toward SaaS and especially from that enterprise segment, that might not be a good fit for Arena on shape, what those customers are kind of doing right now as maybe a long-term plan as they watch what you're developing on Arena?
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Yes, Matt. Well, there's an interesting -- it's a good question, and an interesting survey we do, where we reach out to our Creo and Windchill customers and test their receptivity toward SaaS. And that receptivity expanded dramatically over the last year. I mean, like from a minority to a very strong majority of them are saying, "I want SaaS." Now if you think about it, Creo and Windchill are very sticky products.
+
+So they're saying like, "I want SaaS, but I don't want to switch because switching CAD systems, especially when you're a big user of a high-end CAD system and you've got years and years worth of data, I mean, that's a project. But if I could, within Creo go to SaaS, that would be wonderful. If within windshield, I could go to SaaS, that would be wonderful.
+
+Now why do they want to go to SaaS? Well, they realize, first of all, a mobile workforce. And everybody has some hybrid working office strategy going forward. The thing is if the software, if you're a CAD software, for example, runs on a big desktop computer in the office, well, then how do you work from home? You set up another big desktop computer at home and then how do you shuffle the files back and forth. I mean it's just hard. It'd be better if all this data was never on the desktop, it was always in the cloud, same with the application.
+
+So for example, during the COVID initial shutdowns, Windchill worked great because Windchill is web-based and the data actually is in some web server somewhere. So you just go home and you jump on whatever computer you have there or even a phone or a tablet and you log in through your web browser and you're doing Windchill stuff. Creo, and everything like Creo in the market, it's a different story.
+
+That's a big, what we call, a fat client executable, typically, with a whole bunch of modules installed, typically integrated to other software on that same computer or might be simulation, might be CAM software or whatever. So there's a whole ecosystem of software set up on that computer, how do you recreate that at home? It's hard and there's licensing obstacles and whatnot.
+
+So what a lot of people did is they used a virtual desktop infrastructure. That is from a computer at home, you logged into the computer at work, ran the software and the computer at work and pipe the user interface on to the computer at home. If you did that, it really makes for a pretty crappy workday. This is not really the way to do things like CAD. CAD is optimized for graphics performance and so forth. And all that optimization is completely lost when you're piping the display across the Internet.
+
+So you really want something that's designed to never put the data and ideally don't put the application on the desktop computer in the first place because if it's not there, that means you can move around. So with Windchill, you can move around, but people like to offload more of the cost.
+
+These are complex systems. So mobility is one thing they want, work from anywhere, anytime, work from the office three days of a week, work from home two days a week. But the second real thing is cost. They'd like to get rid of the system administrators, they'd like to get rid of the servers, file servers. There's a lot of costs tied up in that stuff. And they're saying, if you guys could just let me pay for the value I get for the software and not for an infrastructure and the care and feeding of it, it would be great. A third thing we talk about is real-time collaboration.
+
+Again, CAD systems are kind of based on the premise of check-in and checkout. That means I'll take the file, lock it. So you can look at it, but you can't change it until I'd be clear, I'm done changing it. Well, there's a lot of IP in one file. And a lot of times, people are saying, "Well, I get any other kind of software I'm used to, we're working in the same stuff at the same time. How come I can't do that with CAD." Again, you can with SaaS.
+
+So I can go on, there are more qualities that are important to people, but let's just say what Creo and Windchill customers really want is all the benefits of Onshape and Arena without switching from Creo and Windchill. And that's what we're trying to bring to them.
+
+Matt Swanson -- RBC Capital -- Analyst
+
+Yes. Now that makes a ton of sense. And it's a really compelling value proposition. If I can add one more on digital transformation. You mentioned PLM as kind of part of that growth group there. Can you talk a little bit about the progress on moving deeper into customers with PLM kind of beyond those traditional use cases. It's something we've been talking about for a long time, and I think it's always seemed really interesting.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+I think what's really coming to light, it always was true, but it's really much more appreciated now is that PLM is the system of record for products. So PLM in an industrial company, it's absolutely as important as your CRM system, which is the system of record for your customers or your HR system for employees or whatever.
+
+So when companies think I really want these processes to be digitized and mobile, you become mobile and global and all that, you realize we need a reliable source of product data that everybody in engineering, manufacturing, service, marketing sales, whatever, can transact against. So we need one single system, and we all need access to it. And so we're starting to hear that more and more that it's not about making the engineers more efficient, which was kind of the first generation of PLM.
+
+This is more about making sure that everybody across the company has access to the right product data because everybody is making decisions about products, pricing them, selling them, supporting them, manufacturing them. And we need to have accurate data and it needs to be two clicks away. And that's what PLM is now being recognized as the system of record for products.
+
+And industrial companies can't get very far down the journey of digital transformation without saying, "Hey, shouldn't we have a system of record for our products. I mean, honestly, they're product companies. So I think PLM is really emerging into something different. A quick example would be that Navy contract we won. It's about product support. It's about everybody supporting ships, having access to data about ships in the systems they contain, support data.
+
+And so we're using PLM concepts to support the operation of ship, not the engineering and manufacturing, but actually the operation of ships that were engineered manufactured years ago, and it's kind of a good example of digital transformation versus engineering productivity.
+
+Matt Swanson -- RBC Capital -- Analyst
+
+All right. Thanks for the time, guys.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Thank you.
+
+Operator
+
+And your next question will come from Jay Vleeschhouwer with Griffin Securities. Your line is open.
+
+Jay Vleeschhouwer -- Griffin Securities -- Analyst
+
+Thank you. Good evening. Jim, at your partner conference last week, aside from the sessions on sales programs and plans and the like. It was a very interesting roadmap session, which is the thing I want to ask about. It noted that as part of your Creo strategy, you have what was called Five Dimensions and for Onshape, Six Dimensions to the strategy plus various dimensions of the strategy for PLM, of course.
+
+The question I have about the Creo and Onshape strategies is that's a fairly good list of executable. So how do you think about the ones that are perhaps most important on those lists for you to achieve or perhaps the most difficult to achieve, which aren't necessarily the same thing?
+
+And then secondly, you referred to Microsoft a number of times. They're on the cusp of launching their manufacturing cloud. And I'm wondering how you're thinking about the opportunity for you in terms of drafting along with what they do with Manufacturing Cloud.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Okay. So first on the priorities, Jay, I don't have those lists in front of me, and I hate to off the top of my head, I try to represent them all back to everybody, but what you should think of is there are large engineering teams behind these products. In the case of Creo, 400-plus people working on it. In the case of Onshape, not near that many because it's a smaller, tighter product yet younger product. But there's room with the level of resources we have on these products, they have four or five priorities. That's down from 20 or 30 that they would otherwise do. They're trying to narrow down and focus on the key ones. So I think we have the capacity to execute four or five initiatives at a time in both of these products. We can't execute 10 or 20, but certainly four or five big ones, and I guess you were wearing your hat as a partner that day on that conference.
+
+But we're just trying to share with our partners where we're going, what we think is important and frankly, where we think the money is. So that's what's going on there. With respect to Microsoft and their manufacturing cloud, there's a lot of conversations going on between PTC and Microsoft about how to align PTC with that manufacturing cloud, they want us to, we want to. It's just a question now of figuring out what to do to make that happen.
+
+The fact that our former Chief Strategy Officer, Kathleen Mitford, just went over there. It is actually quite helpful because Kathleen and I are quite close, and we've had some conversations since she's gone over there, and she's now able to help me, let's say, coach me and I'm able to coach her and make the companies better aligned together. So there's a lot of good stuff happening with Microsoft, again, three Partner of the Year awards. I think the Manufacturing Cloud will be good for us, but there's some work to figure out once they put it out there, how do we tightly align with it.
+
+Jay Vleeschhouwer -- Griffin Securities -- Analyst
+
+Thank you, Jim.
+
+Operator
+
+And that is all for our question-and-answer session for today. I will now hand it back over to Emily Walt for the closing comments.
+
+Emily Walt -- Senior Director of Investor Relations
+
+Thanks, Peter. I'd like to thank everyone for joining us on the call today. We'll be participating in a number of virtual investor events this quarter, and you can find all the details on our investor website. We look forward to seeing you on the circuit in the coming months. And again, thank you for your interest in PTC, and have a great evening.
+
+Jim Heppelmann -- President and Chief Executive Officer
+
+Thanks, everybody. Thank you. Have a good day.
+
+Operator
+
+[Operator Closing Remarks]
