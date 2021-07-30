@@ -8,6 +8,7 @@ base::load("www/demo.RData")
 predicted_demo["PTC"] <- predicted_demo["PTC"] / 2
 predicted_demo["PYPL"] <- predicted_demo["PYPL"] * 3
 predicted_demo["F"] <- predicted_demo["F"] / 3
+predicted_demo["CRMD"] <- predicted_demo["CRMD"] * 40
 
 shinyServer(function(input, output) {
   

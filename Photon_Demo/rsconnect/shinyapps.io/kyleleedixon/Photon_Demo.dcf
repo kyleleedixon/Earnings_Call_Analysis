@@ -5,8 +5,9 @@ account: kyleleedixon
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4437771
-bundleId: 4870841
+bundleId: 4872272
 url: https://kyleleedixon.shinyapps.io/Photon_Demo/
-when: 1627621411.41304
+when: 1627654877.5781
+lastSyncTime: 1627654877.5781
 asMultiple: FALSE
 asStatic: FALSE
